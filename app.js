@@ -42,14 +42,13 @@ setInterval(() => {
     l_Current_Date_Time = l_Date_ObJ.getFullYear() + "-"+ (l_Date_ObJ.getMonth() + 1) + "-" + l_Date_ObJ.getDate() + " " + l_Date_ObJ.getHours() + ":" + l_Date_ObJ.getMinutes()
     var lTriggerDateTime = l_Date_ObJ.getFullYear() + "-"+ (l_Date_ObJ.getMonth() + 1) + "-" + l_Date_ObJ.getDate()+" "+ lTriggerRequiredHrs
     
-    //F2FFarmerGetData()
+    
     if(lTriggerDateTime==l_Current_Date_Time){
-    //F2FWriteToLogFile(" Trigger Time Mached : " + lTriggerDateTime + "=" + l_Current_Date_Time)    
+    
     F2FFarmerGetData()
     
     }
     
-
     const transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
@@ -91,59 +90,6 @@ setInterval(() => {
         return parsedRecords;
     }
 
-    async function buildHtmlEmailFromDeviceGroup_(fieldOfficerName, deviceGroupString) {
-        // Parse the device records asynchronously
-        const parsedRecords = await parseDeviceRecords(deviceGroupString);
-      
-        // Build table header
-        const tableHeader = `
-          <tr style="background:#f2f2f2;">
-            <th style="border:1px solid #ccc; padding:5px;">S.No</th>
-            <th style="border:1px solid #ccc; padding:5px;">DeviceType</th>
-            <th style="border:1px solid #ccc; padding:5px;">DeviceID</th>
-            <th style="border:1px solid #ccc; padding:5px;">Farmer</th>
-            <th style="border:1px solid #ccc; padding:5px;">FarmerNumber</th>
-            <th style="border:1px solid #ccc; padding:5px;">Village</th>
-            <th style="border:1px solid #ccc; padding:5px;">DeviceLastcommunicated</th>
-            <th style="border:1px solid #ccc; padding:5px;">OfflineSinceFrom</th>
-          </tr>`;
-      
-        // Build table rows by mapping over parsedRecords
-        const tableRows = parsedRecords.map(record => {
-          // If record parsing failed, show the raw string in a full-row cell
-          if (record.raw) {
-            return `<tr><td colspan="8" style="border:1px solid #ccc; padding:5px;">${record.raw}</td></tr>`;
-          }
-      
-          return `
-            <tr>
-              <td style="border:1px solid #ccc; padding:5px;">${record.sno}</td>
-              <td style="border:1px solid #ccc; padding:5px;">${record.DeviceType}</td>
-              <td style="border:1px solid #ccc; padding:5px;">${record.DeviceID}</td>
-              <td style="border:1px solid #ccc; padding:5px;">${record.Farmer}</td>
-              <td style="border:1px solid #ccc; padding:5px;">${record.FarmerNumber}</td>
-              <td style="border:1px solid #ccc; padding:5px;">${record.Village}</td>
-              <td style="border:1px solid #ccc; padding:5px;">${record.GatewayUpdatedTime}</td>
-              <td style="border:1px solid #ccc; padding:5px;">${record.OfflineSinceFrom}</td>
-            </tr>`;
-        }).join('');
-      
-        // Wrap header and rows in a table element
-        const tableHtml = `
-          <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; font-size: 14px;">
-            <thead>${tableHeader}</thead>
-            <tbody>${tableRows}</tbody>
-          </table>`;
-      
-        // Return the complete HTML email content
-        return dedent(`
-          <p>Dear ${fieldOfficerName},</p>
-          <p>Your Offline Device Details are as follows:</p>
-          ${tableHtml}
-          <p>Devices offline immediate action required.</p>
-          <p>Regards,<br/>Team CultYvate</p>
-        `);
-    }
 
     async function buildHtmlEmailFromDeviceGroup(fieldOfficerName, deviceGroupString) {
         // Parse the device records asynchronously
@@ -199,8 +145,6 @@ setInterval(() => {
         `);
     }
       
-
-
 async function F2FFarmerGetData(){
 
     try{
@@ -427,18 +371,6 @@ async function F2FFarmerGetData(){
         await F2FWriteToLogFile(err)
     }
 
-}
-
-
-
-function F2FWriteToLogFile_(pLineData) {   
-        
-  let lDateObJ = new Date();                
-  var lDayWiseLogfile = 'LOGS' + lDateObJ.getFullYear() + "-"+ (lDateObJ.getMonth()+1) + "-" + lDateObJ.getDate() +'.txt'                
-  const filePath = path.join(__dirname, 'LogsCB',lDayWiseLogfile); 
-  var lLogFileTime =  ("0" + lDateObJ.getDate()).slice(-2) +"-"+ ("0" + (lDateObJ.getMonth() + 1)).slice(-2) + "-" +lDateObJ.getFullYear() +  " " + ("0" +lDateObJ.getHours()).slice(-2) + ":" + ("0" +lDateObJ.getMinutes()).slice(-2) + ":" + ("0" +lDateObJ.getSeconds()).slice(-2)
-  var lLogData = lLogFileTime + " " + pLineData + "\n"
-  fs.appendFileSync(filePath, lLogData, 'utf8');
 }
 
 async function F2FWriteToLogFile(pLineData) {   
