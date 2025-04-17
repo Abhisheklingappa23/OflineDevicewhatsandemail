@@ -1,0 +1,24 @@
+14-04-2025 18:25:23 Dear Ajay IIRR,
+
+Your Device Details:
+DeviceType: Gateway, DeviceID: a84041ffff21ab24, Farmer: R.Somaiah S/O Not available, FarmerNumber: 9912181224, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-14 18:23:02, OfflineSinceFrom: 00:02 Hours; DeviceType: Gateway, DeviceID: a84041ffff225b14, Farmer: R Saidulu S/O Mallayya, FarmerNumber: 9949225536, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-14 18:25:13, OfflineSinceFrom: 00:00 Hours
+
+Gateway offline immediate action required.
+14-04-2025 18:25:23 Dear Sai kiran IIRR,
+
+Your Device Details:
+DeviceType: Gateway, DeviceID: a84041ffff27ccb0, Farmer: Lalu S/O Not available, FarmerNumber: 6301638983, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 18:11:24, OfflineSinceFrom: 00:14 Hours; DeviceType: Gateway, DeviceID: a84041ffff28784c, Farmer: Kiran S/O Not Available, FarmerNumber: 7893989055, Village: Dupahad, GatewayUpdatedTime: 2025-04-09 13:58:43, OfflineSinceFrom: 24:27 Hours
+
+Gateway offline immediate action required.
+14-04-2025 18:25:23 Dear Sreeman IIRR,
+
+Your Device Details:
+DeviceType: Gateway, DeviceID: a84041ffff1f9cac, Farmer: Bhukya Laxmi S/O Ramulu, FarmerNumber: 9908795909, Village: Seethampeta banjara, GatewayUpdatedTime: 2025-04-14 18:25:14, OfflineSinceFrom: 00:00 Hours
+
+Gateway offline immediate action required.
+14-04-2025 18:25:23 Dear Srikanth IIRR,
+
+Your Device Details:
+DeviceType: Gateway, DeviceID: a84041ffff1f7c2c, Farmer: Venkat Reddy S/O Rami reddy, FarmerNumber: 9177557150, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 18:20:07, OfflineSinceFrom: 00:05 Hours; DeviceType: Gateway, DeviceID: a84041ffff1f94a0, Farmer: CH Venkatesh S/O Not available, FarmerNumber: 9949940249, Village: Baswapuram, GatewayUpdatedTime: 2025-04-14 16:13:47, OfflineSinceFrom: 02:12 Hours; DeviceType: Gateway, DeviceID: a84041ffff1f9794, Farmer: T.Daveed S/O Chandraiah, FarmerNumber: 9848163862, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-13 02:46:34, OfflineSinceFrom: 39:39 Hours
+
+Gateway offline immediate action required.

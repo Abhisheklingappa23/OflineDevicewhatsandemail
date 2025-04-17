@@ -1,0 +1,576 @@
+15-04-2025 17:53:57 Dear Ajay IIRR,
+
+Your Device Details:
+1. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041028187c1e9, Farmer:  Rami reddy S/O Raju reddy, FarmerNumber: 9849187101, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:23:39, OfflineSinceFrom: 18:30 Hours;
+2. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411bc187c040, Farmer: laxmi narashimha S/O Narayana, FarmerNumber: 9963074126, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:26:10, OfflineSinceFrom: 18:27 Hours;
+3. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411e4187be48, Farmer: Mahesh S/O Venkanna, FarmerNumber: 9014739800, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:08:21, OfflineSinceFrom: 18:45 Hours;
+4. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840412cc18501c1, Farmer: K.Chinna saidhulu S/O Badaiah, FarmerNumber: 9492359580, Village: Neelaigudem, GatewayUpdatedTime: 2024-12-31 14:01:42, OfflineSinceFrom: 23:52 Hours;
+5. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041328187c1d1, Farmer: lavuri naveen S/O lavuri hari, FarmerNumber: 7569295257, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:16:03, OfflineSinceFrom: 18:37 Hours;
+6. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: A84041433185003A, Farmer: Vemula Saidulu S/O Not available, FarmerNumber: 8466952560, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-13 11:07:27, OfflineSinceFrom: 98:46 Hours;
+7. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414e718500fa, Farmer: G.Dharma Reddy S/O Not available, FarmerNumber: 9908253092, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-13 11:10:29, OfflineSinceFrom: 98:43 Hours;
+8. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404158618501e8, Farmer: KasiReddy NagiReddy S/O Not available, FarmerNumber: 9542563992, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-15 01:52:44, OfflineSinceFrom: 16:01 Hours;
+9. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404171f18501bf, Farmer: B prashanth S/O Nagulu, FarmerNumber: 7659918625, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:22:14, OfflineSinceFrom: 18:31 Hours;
+10. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417271850072, Farmer: lavuri naveen S/O lavuri hari, FarmerNumber: 7569295257, Village: Gaddipally, GatewayUpdatedTime: 2025-03-27 13:39:29, OfflineSinceFrom: 60:14 Hours;
+11. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417c3187bedb, Farmer: Sunkari ajay S/O krishnaiah, FarmerNumber: 8466032562, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 00:05:35, OfflineSinceFrom: 17:48 Hours;
+12. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404185a187c0a2, Farmer: K. sridhar S/O rammulu, FarmerNumber: 9912957547, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-12 18:08:13, OfflineSinceFrom: 15:45 Hours;
+13. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418fc187be6c, Farmer: Anthula mahesh S/O raju, FarmerNumber: 9912389061, Village: Gaddipally, GatewayUpdatedTime: 2025-04-08 10:45:57, OfflineSinceFrom: 75:08 Hours;
+14. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404198f187bf08, Farmer: Nagalaxmi S/O Nagulu, FarmerNumber: 9705700493, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:10:09, OfflineSinceFrom: 18:43 Hours;
+15. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a44187bf0c, Farmer: R Mallaiah S/O Not available, FarmerNumber: 9912881314, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-13 11:07:33, OfflineSinceFrom: 98:46 Hours;
+16. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041afb187c033, Farmer: CH.Murari S/O Not available, FarmerNumber: 9676624328, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-13 16:39:54, OfflineSinceFrom: 49:14 Hours;
+17. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b76187c056, Farmer: venkateshwarlu S/O girraiah, FarmerNumber: 6304871855, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:22:57, OfflineSinceFrom: 18:31 Hours;
+18. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c94187c04a, Farmer: Jayamma S/O anjaiah, FarmerNumber: 9346179168, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 04:54:50, OfflineSinceFrom: 12:59 Hours;
+19. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ce3185018d, Farmer: lavuri bharath S/O  lavuri raghu, FarmerNumber: 8639265756, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:22:02, OfflineSinceFrom: 18:31 Hours;
+20. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dbf187c044, Farmer: sunkari bikshamiah S/O harichandhra, FarmerNumber: 9989162627, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:23:29, OfflineSinceFrom: 18:30 Hours;
+21. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f15185032b, Farmer: K Ram Babu S/O Not available, FarmerNumber: 9989964513, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-11 13:06:51, OfflineSinceFrom: 00:47 Hours;
+22. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f4f1850121, Farmer: D Naresh S/O Ramesh D, FarmerNumber: 9290615952, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 06:06:42, OfflineSinceFrom: 11:47 Hours
+
+Gateway offline immediate action required.
+15-04-2025 17:53:57 Dear Sai kiran IIRR,
+
+Your Device Details:
+1. DeviceType: Gateway, DeviceID: a84041ffff28784c, Farmer: Kiran S/O Not Available, FarmerNumber: 7893989055, Village: Dupahad, GatewayUpdatedTime: 2025-04-09 13:58:43, OfflineSinceFrom: 47:55 Hours;
+2. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840410a0187bec9, Farmer: Parmesh Pinnani S/O Kumuriah, FarmerNumber: 9542191360, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:26:32, OfflineSinceFrom: 18:27 Hours;
+3. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411ce187c072, Farmer: Karnam narender S/O Not available, FarmerNumber: 9948460211, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:24:55, OfflineSinceFrom: 18:29 Hours;
+4. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404125e1850051, Farmer: Swaroopa S/O Not available, FarmerNumber: 7095461842, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:24:35, OfflineSinceFrom: 18:29 Hours;
+5. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404127b187c01d, Farmer: Palvai saidhulu S/O Not available, FarmerNumber: 9666303661, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 04:37:32, OfflineSinceFrom: 13:16 Hours;
+6. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404127b187c059, Farmer: Guggila Pikkaiah S/O Mallaiah, FarmerNumber: 9441659250, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 04:26:34, OfflineSinceFrom: 13:27 Hours;
+7. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414b61850174, Farmer: Kiran S/O Not Available, FarmerNumber: 7893989055, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 06:22:31, OfflineSinceFrom: 11:31 Hours;
+8. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404158618501e8, Farmer: Nirmala Raju S/O Venkayya, FarmerNumber: 9951251978, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 01:52:44, OfflineSinceFrom: 16:01 Hours;
+9. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415a9187c00c, Farmer:  Bullepalli saidhulu S/O pichaiah, FarmerNumber: 9010154520, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:24:46, OfflineSinceFrom: 18:29 Hours;
+10. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415ae187bf32, Farmer: Yerakala anjaiah S/O Kotaiah, FarmerNumber: 9959209190, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 10:07:29, OfflineSinceFrom: 07:46 Hours;
+11. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415fb18501c5, Farmer:  Pinnani nagaraju S/O Venkateshwarlu, FarmerNumber: 8008355708, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 06:36:52, OfflineSinceFrom: 11:17 Hours;
+12. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840416fb187c03b, Farmer: Pinnani Saidulu S/O Venkateshwarlu, FarmerNumber: 9951514817, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:25:16, OfflineSinceFrom: 18:28 Hours;
+13. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041813187c035, Farmer: D Aravind S/O Not available, FarmerNumber: 9347782775, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 04:25:26, OfflineSinceFrom: 13:28 Hours;
+14. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041862187c184, Farmer: Rambabu S/O Not available, FarmerNumber: 9133792723, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:29:14, OfflineSinceFrom: 18:24 Hours;
+15. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404187d187be6f, Farmer: Yerakala veeraiah S/O veeraiah, FarmerNumber: 9640630803, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 09:06:51, OfflineSinceFrom: 08:47 Hours;
+16. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418a4187be1f, Farmer: venkanna yerakala S/O Venkateshwarlu, FarmerNumber: 9704613568, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:24:15, OfflineSinceFrom: 18:29 Hours;
+17. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418d718500e7, Farmer: Gopagani Laxminarayana S/O Siddayya, FarmerNumber: 9494569133, Village: Dupahad, GatewayUpdatedTime: 2025-04-09 13:45:22, OfflineSinceFrom: 48:08 Hours;
+18. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418dd187c058, Farmer: Karnam shoba S/O Not available, FarmerNumber: 9030424106, Village: Dupahad, GatewayUpdatedTime: 2025-03-15 19:53:18, OfflineSinceFrom: 42:00 Hours;
+19. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418e4185009e, Farmer: Kampoju bramachari S/O Venkateshwarlu, FarmerNumber: 8498896515, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 05:54:47, OfflineSinceFrom: 11:59 Hours;
+20. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404197d187bed4, Farmer: Challa Venkateswarlu S/O Lingayya, FarmerNumber: 9704710772, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:23:31, OfflineSinceFrom: 18:30 Hours;
+21. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041988187c139, Farmer: Dongari saidhulu S/O mattaiah, FarmerNumber: 9948100435, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:23:10, OfflineSinceFrom: 18:30 Hours;
+22. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a3a1850036, Farmer: Naveen S/O Pedda saidhulu, FarmerNumber: 9010504554, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 05:10:01, OfflineSinceFrom: 12:43 Hours;
+23. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ab1187c13e, Farmer: Hussain S/O Not available, FarmerNumber: 9505027208, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:29:26, OfflineSinceFrom: 18:24 Hours;
+24. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b04187bf39, Farmer: Ravi kumar mamidi S/O Not available, FarmerNumber: 8498075516, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:27:42, OfflineSinceFrom: 18:26 Hours;
+25. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b1b187c02d, Farmer: Pagidi kamalakar S/O Nagaiah, FarmerNumber: 9849933497, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 07:11:17, OfflineSinceFrom: 10:42 Hours;
+26. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ba2187be08, Farmer: Sathish S/O Not available, FarmerNumber: 9949730083, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:21:10, OfflineSinceFrom: 18:32 Hours;
+27. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041bc11850034, Farmer: Bittu rambabu S/O srinivasulu, FarmerNumber: 9390800466, Village: Gaddipally, GatewayUpdatedTime: 2025-04-10 10:59:54, OfflineSinceFrom: 26:54 Hours;
+28. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c1a187c1e5, Farmer: Challa aravind S/O Not available, FarmerNumber: 9666752650, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 05:22:38, OfflineSinceFrom: 12:31 Hours;
+29. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c6c1850152, Farmer: Pabbathi aravind S/O Venkateshwarlu, FarmerNumber: 7981036124, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 03:22:06, OfflineSinceFrom: 14:31 Hours;
+30. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041cda187c041, Farmer: Aveen Varma S/O Not availalble, FarmerNumber: 7702214360, Village: Dupahad, GatewayUpdatedTime: 2025-03-26 14:19:45, OfflineSinceFrom: 83:34 Hours;
+31. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d33187bf1a, Farmer: Yerakala hussain S/O veeraiah, FarmerNumber: 9010876609, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 05:23:04, OfflineSinceFrom: 12:30 Hours;
+32. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041db21850047, Farmer: Pinnani Saidulu S/O Venkateshwarlu, FarmerNumber: 9951514817, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:23:27, OfflineSinceFrom: 18:30 Hours;
+33. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e40187c158, Farmer: Swathi S/O Not available, FarmerNumber: 9700257856, Village: Dupahad, GatewayUpdatedTime: 2025-04-08 10:46:52, OfflineSinceFrom: 75:07 Hours;
+34. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fe6187c04e, Farmer: Gundu nagarjuna  S/O Appanna, FarmerNumber: 9652204428, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 04:56:10, OfflineSinceFrom: 12:57 Hours
+
+Gateway offline immediate action required.
+15-04-2025 17:53:57 Dear Sreeman IIRR,
+
+Your Device Details:
+1. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404134f185030f, Farmer: E.kutumbarao S/O Narsaiah, FarmerNumber: 9956630513, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:17:26, OfflineSinceFrom: 00:36 Hours
+
+Gateway offline immediate action required.
+15-04-2025 17:53:57 Dear Srikanth IIRR,
+
+Your Device Details:
+1. DeviceType: Gateway, DeviceID: a84041ffff1f9794, Farmer: T.Daveed S/O Chandraiah, FarmerNumber: 9848163862, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-13 02:46:34, OfflineSinceFrom: 63:07 Hours;
+2. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041059187c0fd, Farmer: S.Laxmi narayana S/O Krishna rao, FarmerNumber: 9908801247, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:54, OfflineSinceFrom: 00:39 Hours;
+3. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041061187c12a, Farmer: Krishna reddy S/O Rami reddy, FarmerNumber: 9505220641, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:14:29, OfflineSinceFrom: 00:39 Hours;
+4. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041070187c188, Farmer: S.Vigneshwar Reddy S/O Venkata Reddy, FarmerNumber: 9492095539, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 12:45:35, OfflineSinceFrom: 01:08 Hours;
+5. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840410af187c14e, Farmer: K Ramakrishna S/O Not available, FarmerNumber: 9542462062, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:52:43, OfflineSinceFrom: 01:01 Hours;
+6. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411be187c1da, Farmer: A.Vishnuvardhan reddy S/O  Krishna reddy, FarmerNumber: 9059605641, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:57, OfflineSinceFrom: 00:39 Hours;
+7. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840412a21850081, Farmer: K.Raghava Reddy S/O Venkat reddy , FarmerNumber: 9346222811, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:12:16, OfflineSinceFrom: 00:41 Hours;
+8. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840412a918501e6, Farmer: A.Appi Reddy S/O Not available, FarmerNumber: 9704863676, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:07:35, OfflineSinceFrom: 00:46 Hours;
+9. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404132818500ce, Farmer: Anji S/O Suryam, FarmerNumber: 7416945480, Village: Baswapuram, GatewayUpdatedTime: 2025-03-18 12:19:14, OfflineSinceFrom: 77:34 Hours;
+10. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840413641850008, Farmer: .S.Chalapathi S/O Krishna Reddy, FarmerNumber: 9177143074, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:12:47, OfflineSinceFrom: 00:41 Hours;
+11. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404143e1850144, Farmer: Selam Krishna Reddy S/O Pratap Reddy, FarmerNumber: 9494498996, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:03:08, OfflineSinceFrom: 00:50 Hours;
+12. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404148418501c6, Farmer: S.Rama rao S/O Laxmaiah, FarmerNumber: 7659931025, Village: Baswapuram, GatewayUpdatedTime: 2025-04-14 04:25:14, OfflineSinceFrom: 37:28 Hours;
+13. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414a0187c1cc, Farmer: CH Krishna rao S/O Ramakrishna , FarmerNumber: 9505157718, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:07:58, OfflineSinceFrom: 00:46 Hours;
+14. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414d7187c172, Farmer: A.Alekya S/O Koti reddy, FarmerNumber: 8187833646, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:11, OfflineSinceFrom: 00:38 Hours;
+15. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404152818502e5, Farmer: Nagesh S/O Sathanarayana, FarmerNumber: 7941425623, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 12:40:22, OfflineSinceFrom: 01:13 Hours;
+16. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415bc184fffb, Farmer: Madhavi S/O Pullaiah, FarmerNumber: 8121052762, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:45, OfflineSinceFrom: 00:38 Hours;
+17. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415e918502eb, Farmer: T.Krishna Chari S/O Ramachari, FarmerNumber: 9989362610, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:39:44, OfflineSinceFrom: 01:14 Hours;
+18. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415fa187c15c, Farmer: A.Narsimha Reddy S/O Krishna reddy, FarmerNumber: 9440639867, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:01:57, OfflineSinceFrom: 00:52 Hours;
+19. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840416c4187c1de, Farmer: S Venugopal Reddy S/O Not available, FarmerNumber: 9182277029, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:11:29, OfflineSinceFrom: 00:42 Hours;
+20. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840416eb187c090, Farmer: Anji S/O Suryam, FarmerNumber: 7416945480, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:10:40, OfflineSinceFrom: 00:43 Hours;
+21. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041727187c066, Farmer: CH Laxmi S/O Not given, FarmerNumber: 9440104903, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:05:34, OfflineSinceFrom: 00:48 Hours;
+22. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041747187be4c, Farmer: T.Maraiah S/O Not available, FarmerNumber: 9618896923, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:12:12, OfflineSinceFrom: 00:41 Hours;
+23. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404179b187be6e, Farmer: A.Chalapathi Rao S/O Venkat reddy, FarmerNumber: 8500665865, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:25, OfflineSinceFrom: 00:39 Hours;
+24. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417ab187c1a4, Farmer: B.Jagan Mohan Rao S/O Krishna murthy, FarmerNumber: 7981529043, Village: Baswapuram, GatewayUpdatedTime: 2025-04-08 13:04:15, OfflineSinceFrom: 72:49 Hours;
+25. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417f718502e6, Farmer: K.Sujatha Reddy S/O Venkat reddy, FarmerNumber: 7842504223, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:37, OfflineSinceFrom: 00:39 Hours;
+26. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041824185003d, Farmer: S.Nagabhushanam Reddy S/O Narsi Reddy, FarmerNumber: 6304786052, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:04, OfflineSinceFrom: 00:39 Hours;
+27. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404185c18500db, Farmer: D Venkatraoamma S/O Not available, FarmerNumber: 9177570504, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:03, OfflineSinceFrom: 00:40 Hours;
+28. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418c2187c076, Farmer: J.Narasimha reddy S/O Laxmi reddy, FarmerNumber: 8200823384, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:06:57, OfflineSinceFrom: 00:47 Hours;
+29. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418e418500a2, Farmer: D Suresh S/O Satyanarayana, FarmerNumber: 7989806909, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:13, OfflineSinceFrom: 00:40 Hours;
+30. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404199a185010a, Farmer: Nagaraju S/O Laxma Rao, FarmerNumber: 9701759808, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:30, OfflineSinceFrom: 00:38 Hours;
+31. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840419de185005e, Farmer: Aliveli manga.k S/O Gopi reddy, FarmerNumber: 9573220642, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 06:52:38, OfflineSinceFrom: 35:01 Hours;
+32. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a17187c00d, Farmer: Narasimha rao S/O Sitaramaiah, FarmerNumber: 9100665499, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:19, OfflineSinceFrom: 00:40 Hours;
+33. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a1f187c19c, Farmer: MD.Mogula saib S/O Saidulu, FarmerNumber: 9010784997, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:09:51, OfflineSinceFrom: 00:44 Hours;
+34. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a65187c189, Farmer: Koti reddy S/O Rami reddy, FarmerNumber: 9666008716, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:08:03, OfflineSinceFrom: 00:45 Hours;
+35. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a6618500bf, Farmer: Selam Appi reddy S/O Ramulu, FarmerNumber: 9550898019, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:11:35, OfflineSinceFrom: 00:42 Hours;
+36. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a73187c1c5, Farmer: D.Narasimha rao S/O Malsuraiah, FarmerNumber: 9876080876, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:46, OfflineSinceFrom: 00:38 Hours;
+37. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a98187c17f, Farmer: S.Gopal rao S/O Ramaiah, FarmerNumber: 9000097080, Village: Baswapuram, GatewayUpdatedTime: 2025-04-14 04:47:04, OfflineSinceFrom: 37:06 Hours;
+38. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a9b187c135, Farmer: Karnati Srinivas Reddy S/O Not available, FarmerNumber: 9346394356, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:07:54, OfflineSinceFrom: 00:46 Hours;
+39. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ab9187c0b3, Farmer: D Srinivas rao S/O Not available, FarmerNumber: 9000438446, Village: Baswapuram, GatewayUpdatedTime: 2025-04-08 13:17:58, OfflineSinceFrom: 72:36 Hours;
+40. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041abc187bf3a, Farmer: P.venkat reddy S/O Seetharam reddy, FarmerNumber: 9381979212, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:05:27, OfflineSinceFrom: 00:48 Hours;
+41. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041aea187c01c, Farmer: Gudure Rami Reddy S/O Not available, FarmerNumber: 9000335222, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 12:55:23, OfflineSinceFrom: 00:58 Hours;
+42. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b22185008a, Farmer: Raghavender Reddy S/O Venkat reddy, FarmerNumber: 6302463213, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:16:57, OfflineSinceFrom: 00:37 Hours;
+43. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b80187c127, Farmer: G.Narsi Reddy S/O Not available, FarmerNumber: 7995372243, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:14:59, OfflineSinceFrom: 00:39 Hours;
+44. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c52187c039, Farmer: A.Upender Reddy S/O Appireddy, FarmerNumber: 6281697353, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:06:09, OfflineSinceFrom: 00:47 Hours;
+45. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041cb8187c112, Farmer: Lakkireddy Appireddy S/O Not available, FarmerNumber: 9951152138, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-15 01:09:45, OfflineSinceFrom: 16:44 Hours;
+46. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041cde1850188, Farmer: J Madhav Reddy S/O Venkat reddy, FarmerNumber: 6303651325, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:54, OfflineSinceFrom: 00:40 Hours;
+47. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d1c18501b3, Farmer: J.Krishna Reddy S/O Laxmi Reddy, FarmerNumber: 9566974899, Village: Baswapuram, GatewayUpdatedTime: 2025-04-15 00:07:27, OfflineSinceFrom: 17:46 Hours;
+48. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d44187c159, Farmer: P.Ramu S/O Not available, FarmerNumber: 8790095633, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:25, OfflineSinceFrom: 00:38 Hours;
+49. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d561850026, Farmer: CH Krishna rao S/O Ramakrishna , FarmerNumber: 9505157718, Village: Baswapuram, GatewayUpdatedTime: 2025-03-18 17:19:03, OfflineSinceFrom: 72:34 Hours;
+50. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d64187c0c8, Farmer: Gurrala Laxma Reddy S/O Not available, FarmerNumber: 9666118549, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:08, OfflineSinceFrom: 00:38 Hours;
+51. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d71187c032, Farmer: K.Srikanth S/O srinivas Reddy , FarmerNumber: 9550845443, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:22, OfflineSinceFrom: 00:39 Hours;
+52. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d9318500b1, Farmer: V.Sathyanarayana S/O Krishna Reddy, FarmerNumber: 9573041291, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 04:44:17, OfflineSinceFrom: 37:09 Hours;
+53. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dbf187beea, Farmer: D Rangarao S/O Not available, FarmerNumber: 9182555376, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:32, OfflineSinceFrom: 00:38 Hours;
+54. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dc7182465c, Farmer: S.krishna reddy S/O Pratap Reddy, FarmerNumber: 9849962499, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:08:41, OfflineSinceFrom: 00:45 Hours;
+55. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dfc1850324, Farmer: E.pullaiah S/O Bushaiah, FarmerNumber: 9704093762, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 16:13:47, OfflineSinceFrom: 25:40 Hours;
+56. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e06187c069, Farmer: S VenkatReddy S/O Not available, FarmerNumber: 9989253211, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:38, OfflineSinceFrom: 00:39 Hours;
+57. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e9318501ab, Farmer: S.Rami Reddy S/O Narsi reddy, FarmerNumber: 9951613522, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:11:01, OfflineSinceFrom: 00:42 Hours;
+58. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e94185015c, Farmer: Ailuru Laxma Reddy S/O Not available, FarmerNumber: 9908603607, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 04:25:52, OfflineSinceFrom: 37:28 Hours;
+59. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ea4187c19e, Farmer: D.Triveni S/O Suresh, FarmerNumber: 8106009095, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:39, OfflineSinceFrom: 00:38 Hours;
+60. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f15185032b, Farmer: A.Vani sree S/O Srinivas Reddy , FarmerNumber: 9505798192, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:06:51, OfflineSinceFrom: 00:47 Hours;
+61. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f42187c110, Farmer: CH Srinivasa rao S/O Ramakrishna, FarmerNumber: 9177456691, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:56, OfflineSinceFrom: 00:40 Hours;
+62. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f67187c141, Farmer: D Chitti babu S/O Not available, FarmerNumber: 9505547622, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:38:59, OfflineSinceFrom: 01:15 Hours;
+63. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fa718502e9, Farmer: A.Ramakrishna Reddy  S/O Nagi reddy, FarmerNumber: 9543268883, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:20:29, OfflineSinceFrom: 00:33 Hours;
+64. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fb21850069, Farmer: M.Anvesh S/O Balaram, FarmerNumber: 9542692619, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:56:11, OfflineSinceFrom: 00:57 Hours;
+65. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fc8187c0b2, Farmer: J Krishna Reddy S/O Not available, FarmerNumber: 6303555056, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:49, OfflineSinceFrom: 00:38 Hours;
+66. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fde187c11a, Farmer: Venkat Reddy S/O Rami reddy, FarmerNumber: 9177557150, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:16:12, OfflineSinceFrom: 00:37 Hours;
+67. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84042000181be69, Farmer: Ailuru Bikshma Reddy S/O Not available, FarmerNumber: 9701475722, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:08:30, OfflineSinceFrom: 00:45 Hours
+
+Gateway offline immediate action required.
+15-04-2025 17:54:06 Dear Ajay IIRR,
+
+Your Device Details:
+1. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041028187c1e9, Farmer:  Rami reddy S/O Raju reddy, FarmerNumber: 9849187101, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:23:39, OfflineSinceFrom: 18:31 Hours;
+2. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411bc187c040, Farmer: laxmi narashimha S/O Narayana, FarmerNumber: 9963074126, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:26:10, OfflineSinceFrom: 18:28 Hours;
+3. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411e4187be48, Farmer: Mahesh S/O Venkanna, FarmerNumber: 9014739800, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:08:21, OfflineSinceFrom: 18:46 Hours;
+4. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840412cc18501c1, Farmer: K.Chinna saidhulu S/O Badaiah, FarmerNumber: 9492359580, Village: Neelaigudem, GatewayUpdatedTime: 2024-12-31 14:01:42, OfflineSinceFrom: 23:53 Hours;
+5. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041328187c1d1, Farmer: lavuri naveen S/O lavuri hari, FarmerNumber: 7569295257, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:16:03, OfflineSinceFrom: 18:38 Hours;
+6. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: A84041433185003A, Farmer: Vemula Saidulu S/O Not available, FarmerNumber: 8466952560, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-13 11:07:27, OfflineSinceFrom: 98:47 Hours;
+7. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414e718500fa, Farmer: G.Dharma Reddy S/O Not available, FarmerNumber: 9908253092, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-13 11:10:29, OfflineSinceFrom: 98:44 Hours;
+8. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404158618501e8, Farmer: KasiReddy NagiReddy S/O Not available, FarmerNumber: 9542563992, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-15 01:52:44, OfflineSinceFrom: 16:02 Hours;
+9. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404171f18501bf, Farmer: B prashanth S/O Nagulu, FarmerNumber: 7659918625, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:22:14, OfflineSinceFrom: 18:32 Hours;
+10. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417271850072, Farmer: lavuri naveen S/O lavuri hari, FarmerNumber: 7569295257, Village: Gaddipally, GatewayUpdatedTime: 2025-03-27 13:39:29, OfflineSinceFrom: 60:15 Hours;
+11. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417c3187bedb, Farmer: Sunkari ajay S/O krishnaiah, FarmerNumber: 8466032562, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 00:05:35, OfflineSinceFrom: 17:49 Hours;
+12. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404185a187c0a2, Farmer: K. sridhar S/O rammulu, FarmerNumber: 9912957547, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-12 18:08:13, OfflineSinceFrom: 15:46 Hours;
+13. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418fc187be6c, Farmer: Anthula mahesh S/O raju, FarmerNumber: 9912389061, Village: Gaddipally, GatewayUpdatedTime: 2025-04-08 10:45:57, OfflineSinceFrom: 75:09 Hours;
+14. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404198f187bf08, Farmer: Nagalaxmi S/O Nagulu, FarmerNumber: 9705700493, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:10:09, OfflineSinceFrom: 18:44 Hours;
+15. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a44187bf0c, Farmer: R Mallaiah S/O Not available, FarmerNumber: 9912881314, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-13 11:07:33, OfflineSinceFrom: 98:47 Hours;
+16. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041afb187c033, Farmer: CH.Murari S/O Not available, FarmerNumber: 9676624328, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-13 16:39:54, OfflineSinceFrom: 49:15 Hours;
+17. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b76187c056, Farmer: venkateshwarlu S/O girraiah, FarmerNumber: 6304871855, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:22:57, OfflineSinceFrom: 18:32 Hours;
+18. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c94187c04a, Farmer: Jayamma S/O anjaiah, FarmerNumber: 9346179168, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 04:54:50, OfflineSinceFrom: 13:00 Hours;
+19. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ce3185018d, Farmer: lavuri bharath S/O  lavuri raghu, FarmerNumber: 8639265756, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:22:02, OfflineSinceFrom: 18:32 Hours;
+20. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dbf187c044, Farmer: sunkari bikshamiah S/O harichandhra, FarmerNumber: 9989162627, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:23:29, OfflineSinceFrom: 18:31 Hours;
+21. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f15185032b, Farmer: K Ram Babu S/O Not available, FarmerNumber: 9989964513, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-11 13:06:51, OfflineSinceFrom: 00:48 Hours;
+22. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f4f1850121, Farmer: D Naresh S/O Ramesh D, FarmerNumber: 9290615952, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 06:06:42, OfflineSinceFrom: 11:48 Hours
+
+Gateway offline immediate action required.
+15-04-2025 17:54:06 Dear Sai kiran IIRR,
+
+Your Device Details:
+1. DeviceType: Gateway, DeviceID: a84041ffff28784c, Farmer: Kiran S/O Not Available, FarmerNumber: 7893989055, Village: Dupahad, GatewayUpdatedTime: 2025-04-09 13:58:43, OfflineSinceFrom: 47:56 Hours;
+2. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840410a0187bec9, Farmer: Parmesh Pinnani S/O Kumuriah, FarmerNumber: 9542191360, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:26:32, OfflineSinceFrom: 18:28 Hours;
+3. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411ce187c072, Farmer: Karnam narender S/O Not available, FarmerNumber: 9948460211, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:24:55, OfflineSinceFrom: 18:30 Hours;
+4. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404125e1850051, Farmer: Swaroopa S/O Not available, FarmerNumber: 7095461842, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:24:35, OfflineSinceFrom: 18:30 Hours;
+5. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404127b187c01d, Farmer: Palvai saidhulu S/O Not available, FarmerNumber: 9666303661, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 04:37:32, OfflineSinceFrom: 13:17 Hours;
+6. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404127b187c059, Farmer: Guggila Pikkaiah S/O Mallaiah, FarmerNumber: 9441659250, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 04:26:34, OfflineSinceFrom: 13:28 Hours;
+7. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414b61850174, Farmer: Kiran S/O Not Available, FarmerNumber: 7893989055, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 06:22:31, OfflineSinceFrom: 11:32 Hours;
+8. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404158618501e8, Farmer: Nirmala Raju S/O Venkayya, FarmerNumber: 9951251978, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 01:52:44, OfflineSinceFrom: 16:02 Hours;
+9. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415a9187c00c, Farmer:  Bullepalli saidhulu S/O pichaiah, FarmerNumber: 9010154520, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:24:46, OfflineSinceFrom: 18:30 Hours;
+10. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415ae187bf32, Farmer: Yerakala anjaiah S/O Kotaiah, FarmerNumber: 9959209190, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 10:07:29, OfflineSinceFrom: 07:47 Hours;
+11. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415fb18501c5, Farmer:  Pinnani nagaraju S/O Venkateshwarlu, FarmerNumber: 8008355708, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 06:36:52, OfflineSinceFrom: 11:18 Hours;
+12. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840416fb187c03b, Farmer: Pinnani Saidulu S/O Venkateshwarlu, FarmerNumber: 9951514817, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:25:16, OfflineSinceFrom: 18:29 Hours;
+13. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041813187c035, Farmer: D Aravind S/O Not available, FarmerNumber: 9347782775, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 04:25:26, OfflineSinceFrom: 13:29 Hours;
+14. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041862187c184, Farmer: Rambabu S/O Not available, FarmerNumber: 9133792723, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:29:14, OfflineSinceFrom: 18:25 Hours;
+15. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404187d187be6f, Farmer: Yerakala veeraiah S/O veeraiah, FarmerNumber: 9640630803, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 09:06:51, OfflineSinceFrom: 08:48 Hours;
+16. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418a4187be1f, Farmer: venkanna yerakala S/O Venkateshwarlu, FarmerNumber: 9704613568, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:24:15, OfflineSinceFrom: 18:30 Hours;
+17. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418d718500e7, Farmer: Gopagani Laxminarayana S/O Siddayya, FarmerNumber: 9494569133, Village: Dupahad, GatewayUpdatedTime: 2025-04-09 13:45:22, OfflineSinceFrom: 48:09 Hours;
+18. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418dd187c058, Farmer: Karnam shoba S/O Not available, FarmerNumber: 9030424106, Village: Dupahad, GatewayUpdatedTime: 2025-03-15 19:53:18, OfflineSinceFrom: 42:01 Hours;
+19. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418e4185009e, Farmer: Kampoju bramachari S/O Venkateshwarlu, FarmerNumber: 8498896515, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 05:54:47, OfflineSinceFrom: 12:00 Hours;
+20. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404197d187bed4, Farmer: Challa Venkateswarlu S/O Lingayya, FarmerNumber: 9704710772, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:23:31, OfflineSinceFrom: 18:31 Hours;
+21. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041988187c139, Farmer: Dongari saidhulu S/O mattaiah, FarmerNumber: 9948100435, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:23:10, OfflineSinceFrom: 18:31 Hours;
+22. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a3a1850036, Farmer: Naveen S/O Pedda saidhulu, FarmerNumber: 9010504554, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 05:10:01, OfflineSinceFrom: 12:44 Hours;
+23. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ab1187c13e, Farmer: Hussain S/O Not available, FarmerNumber: 9505027208, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:29:26, OfflineSinceFrom: 18:25 Hours;
+24. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b04187bf39, Farmer: Ravi kumar mamidi S/O Not available, FarmerNumber: 8498075516, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:27:42, OfflineSinceFrom: 18:27 Hours;
+25. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b1b187c02d, Farmer: Pagidi kamalakar S/O Nagaiah, FarmerNumber: 9849933497, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 07:11:17, OfflineSinceFrom: 10:43 Hours;
+26. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ba2187be08, Farmer: Sathish S/O Not available, FarmerNumber: 9949730083, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:21:10, OfflineSinceFrom: 18:33 Hours;
+27. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041bc11850034, Farmer: Bittu rambabu S/O srinivasulu, FarmerNumber: 9390800466, Village: Gaddipally, GatewayUpdatedTime: 2025-04-10 10:59:54, OfflineSinceFrom: 26:55 Hours;
+28. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c1a187c1e5, Farmer: Challa aravind S/O Not available, FarmerNumber: 9666752650, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 05:22:38, OfflineSinceFrom: 12:32 Hours;
+29. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c6c1850152, Farmer: Pabbathi aravind S/O Venkateshwarlu, FarmerNumber: 7981036124, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 03:22:06, OfflineSinceFrom: 14:32 Hours;
+30. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041cda187c041, Farmer: Aveen Varma S/O Not availalble, FarmerNumber: 7702214360, Village: Dupahad, GatewayUpdatedTime: 2025-03-26 14:19:45, OfflineSinceFrom: 83:35 Hours;
+31. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d33187bf1a, Farmer: Yerakala hussain S/O veeraiah, FarmerNumber: 9010876609, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 05:23:04, OfflineSinceFrom: 12:31 Hours;
+32. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041db21850047, Farmer: Pinnani Saidulu S/O Venkateshwarlu, FarmerNumber: 9951514817, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:23:27, OfflineSinceFrom: 18:31 Hours;
+33. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e40187c158, Farmer: Swathi S/O Not available, FarmerNumber: 9700257856, Village: Dupahad, GatewayUpdatedTime: 2025-04-08 10:46:52, OfflineSinceFrom: 75:08 Hours;
+34. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fe6187c04e, Farmer: Gundu nagarjuna  S/O Appanna, FarmerNumber: 9652204428, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 04:56:10, OfflineSinceFrom: 12:58 Hours
+
+Gateway offline immediate action required.
+15-04-2025 17:54:06 Dear Sreeman IIRR,
+
+Your Device Details:
+1. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404134f185030f, Farmer: E.kutumbarao S/O Narsaiah, FarmerNumber: 9956630513, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:17:26, OfflineSinceFrom: 00:37 Hours
+
+Gateway offline immediate action required.
+15-04-2025 17:54:06 Dear Srikanth IIRR,
+
+Your Device Details:
+1. DeviceType: Gateway, DeviceID: a84041ffff1f9794, Farmer: T.Daveed S/O Chandraiah, FarmerNumber: 9848163862, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-13 02:46:34, OfflineSinceFrom: 63:08 Hours;
+2. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041059187c0fd, Farmer: S.Laxmi narayana S/O Krishna rao, FarmerNumber: 9908801247, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:54, OfflineSinceFrom: 00:40 Hours;
+3. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041061187c12a, Farmer: Krishna reddy S/O Rami reddy, FarmerNumber: 9505220641, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:14:29, OfflineSinceFrom: 00:40 Hours;
+4. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041070187c188, Farmer: S.Vigneshwar Reddy S/O Venkata Reddy, FarmerNumber: 9492095539, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 12:45:35, OfflineSinceFrom: 01:09 Hours;
+5. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840410af187c14e, Farmer: K Ramakrishna S/O Not available, FarmerNumber: 9542462062, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:52:43, OfflineSinceFrom: 01:02 Hours;
+6. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411be187c1da, Farmer: A.Vishnuvardhan reddy S/O  Krishna reddy, FarmerNumber: 9059605641, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:57, OfflineSinceFrom: 00:40 Hours;
+7. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840412a21850081, Farmer: K.Raghava Reddy S/O Venkat reddy , FarmerNumber: 9346222811, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:12:16, OfflineSinceFrom: 00:42 Hours;
+8. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840412a918501e6, Farmer: A.Appi Reddy S/O Not available, FarmerNumber: 9704863676, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:07:35, OfflineSinceFrom: 00:47 Hours;
+9. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404132818500ce, Farmer: Anji S/O Suryam, FarmerNumber: 7416945480, Village: Baswapuram, GatewayUpdatedTime: 2025-03-18 12:19:14, OfflineSinceFrom: 77:35 Hours;
+10. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840413641850008, Farmer: .S.Chalapathi S/O Krishna Reddy, FarmerNumber: 9177143074, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:12:47, OfflineSinceFrom: 00:42 Hours;
+11. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404143e1850144, Farmer: Selam Krishna Reddy S/O Pratap Reddy, FarmerNumber: 9494498996, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:03:08, OfflineSinceFrom: 00:51 Hours;
+12. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404148418501c6, Farmer: S.Rama rao S/O Laxmaiah, FarmerNumber: 7659931025, Village: Baswapuram, GatewayUpdatedTime: 2025-04-14 04:25:14, OfflineSinceFrom: 37:29 Hours;
+13. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414a0187c1cc, Farmer: CH Krishna rao S/O Ramakrishna , FarmerNumber: 9505157718, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:07:58, OfflineSinceFrom: 00:47 Hours;
+14. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414d7187c172, Farmer: A.Alekya S/O Koti reddy, FarmerNumber: 8187833646, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:11, OfflineSinceFrom: 00:39 Hours;
+15. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404152818502e5, Farmer: Nagesh S/O Sathanarayana, FarmerNumber: 7941425623, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 12:40:22, OfflineSinceFrom: 01:14 Hours;
+16. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415bc184fffb, Farmer: Madhavi S/O Pullaiah, FarmerNumber: 8121052762, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:45, OfflineSinceFrom: 00:39 Hours;
+17. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415e918502eb, Farmer: T.Krishna Chari S/O Ramachari, FarmerNumber: 9989362610, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:39:44, OfflineSinceFrom: 01:15 Hours;
+18. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415fa187c15c, Farmer: A.Narsimha Reddy S/O Krishna reddy, FarmerNumber: 9440639867, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:01:57, OfflineSinceFrom: 00:53 Hours;
+19. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840416c4187c1de, Farmer: S Venugopal Reddy S/O Not available, FarmerNumber: 9182277029, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:11:29, OfflineSinceFrom: 00:43 Hours;
+20. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840416eb187c090, Farmer: Anji S/O Suryam, FarmerNumber: 7416945480, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:10:40, OfflineSinceFrom: 00:44 Hours;
+21. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041727187c066, Farmer: CH Laxmi S/O Not given, FarmerNumber: 9440104903, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:05:34, OfflineSinceFrom: 00:49 Hours;
+22. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041747187be4c, Farmer: T.Maraiah S/O Not available, FarmerNumber: 9618896923, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:12:12, OfflineSinceFrom: 00:42 Hours;
+23. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404179b187be6e, Farmer: A.Chalapathi Rao S/O Venkat reddy, FarmerNumber: 8500665865, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:25, OfflineSinceFrom: 00:40 Hours;
+24. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417ab187c1a4, Farmer: B.Jagan Mohan Rao S/O Krishna murthy, FarmerNumber: 7981529043, Village: Baswapuram, GatewayUpdatedTime: 2025-04-08 13:04:15, OfflineSinceFrom: 72:50 Hours;
+25. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417f718502e6, Farmer: K.Sujatha Reddy S/O Venkat reddy, FarmerNumber: 7842504223, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:37, OfflineSinceFrom: 00:40 Hours;
+26. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041824185003d, Farmer: S.Nagabhushanam Reddy S/O Narsi Reddy, FarmerNumber: 6304786052, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:04, OfflineSinceFrom: 00:40 Hours;
+27. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404185c18500db, Farmer: D Venkatraoamma S/O Not available, FarmerNumber: 9177570504, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:03, OfflineSinceFrom: 00:41 Hours;
+28. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418c2187c076, Farmer: J.Narasimha reddy S/O Laxmi reddy, FarmerNumber: 8200823384, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:06:57, OfflineSinceFrom: 00:48 Hours;
+29. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418e418500a2, Farmer: D Suresh S/O Satyanarayana, FarmerNumber: 7989806909, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:13, OfflineSinceFrom: 00:41 Hours;
+30. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404199a185010a, Farmer: Nagaraju S/O Laxma Rao, FarmerNumber: 9701759808, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:30, OfflineSinceFrom: 00:39 Hours;
+31. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840419de185005e, Farmer: Aliveli manga.k S/O Gopi reddy, FarmerNumber: 9573220642, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 06:52:38, OfflineSinceFrom: 35:02 Hours;
+32. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a17187c00d, Farmer: Narasimha rao S/O Sitaramaiah, FarmerNumber: 9100665499, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:19, OfflineSinceFrom: 00:41 Hours;
+33. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a1f187c19c, Farmer: MD.Mogula saib S/O Saidulu, FarmerNumber: 9010784997, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:09:51, OfflineSinceFrom: 00:45 Hours;
+34. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a65187c189, Farmer: Koti reddy S/O Rami reddy, FarmerNumber: 9666008716, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:08:03, OfflineSinceFrom: 00:46 Hours;
+35. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a6618500bf, Farmer: Selam Appi reddy S/O Ramulu, FarmerNumber: 9550898019, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:11:35, OfflineSinceFrom: 00:43 Hours;
+36. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a73187c1c5, Farmer: D.Narasimha rao S/O Malsuraiah, FarmerNumber: 9876080876, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:46, OfflineSinceFrom: 00:39 Hours;
+37. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a98187c17f, Farmer: S.Gopal rao S/O Ramaiah, FarmerNumber: 9000097080, Village: Baswapuram, GatewayUpdatedTime: 2025-04-14 04:47:04, OfflineSinceFrom: 37:07 Hours;
+38. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a9b187c135, Farmer: Karnati Srinivas Reddy S/O Not available, FarmerNumber: 9346394356, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:07:54, OfflineSinceFrom: 00:47 Hours;
+39. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ab9187c0b3, Farmer: D Srinivas rao S/O Not available, FarmerNumber: 9000438446, Village: Baswapuram, GatewayUpdatedTime: 2025-04-08 13:17:58, OfflineSinceFrom: 72:37 Hours;
+40. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041abc187bf3a, Farmer: P.venkat reddy S/O Seetharam reddy, FarmerNumber: 9381979212, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:05:27, OfflineSinceFrom: 00:49 Hours;
+41. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041aea187c01c, Farmer: Gudure Rami Reddy S/O Not available, FarmerNumber: 9000335222, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 12:55:23, OfflineSinceFrom: 00:59 Hours;
+42. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b22185008a, Farmer: Raghavender Reddy S/O Venkat reddy, FarmerNumber: 6302463213, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:16:57, OfflineSinceFrom: 00:38 Hours;
+43. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b80187c127, Farmer: G.Narsi Reddy S/O Not available, FarmerNumber: 7995372243, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:14:59, OfflineSinceFrom: 00:40 Hours;
+44. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c52187c039, Farmer: A.Upender Reddy S/O Appireddy, FarmerNumber: 6281697353, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:06:09, OfflineSinceFrom: 00:48 Hours;
+45. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041cb8187c112, Farmer: Lakkireddy Appireddy S/O Not available, FarmerNumber: 9951152138, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-15 01:09:45, OfflineSinceFrom: 16:45 Hours;
+46. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041cde1850188, Farmer: J Madhav Reddy S/O Venkat reddy, FarmerNumber: 6303651325, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:54, OfflineSinceFrom: 00:41 Hours;
+47. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d1c18501b3, Farmer: J.Krishna Reddy S/O Laxmi Reddy, FarmerNumber: 9566974899, Village: Baswapuram, GatewayUpdatedTime: 2025-04-15 00:07:27, OfflineSinceFrom: 17:47 Hours;
+48. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d44187c159, Farmer: P.Ramu S/O Not available, FarmerNumber: 8790095633, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:25, OfflineSinceFrom: 00:39 Hours;
+49. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d561850026, Farmer: CH Krishna rao S/O Ramakrishna , FarmerNumber: 9505157718, Village: Baswapuram, GatewayUpdatedTime: 2025-03-18 17:19:03, OfflineSinceFrom: 72:35 Hours;
+50. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d64187c0c8, Farmer: Gurrala Laxma Reddy S/O Not available, FarmerNumber: 9666118549, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:08, OfflineSinceFrom: 00:39 Hours;
+51. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d71187c032, Farmer: K.Srikanth S/O srinivas Reddy , FarmerNumber: 9550845443, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:22, OfflineSinceFrom: 00:40 Hours;
+52. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d9318500b1, Farmer: V.Sathyanarayana S/O Krishna Reddy, FarmerNumber: 9573041291, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 04:44:17, OfflineSinceFrom: 37:10 Hours;
+53. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dbf187beea, Farmer: D Rangarao S/O Not available, FarmerNumber: 9182555376, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:32, OfflineSinceFrom: 00:39 Hours;
+54. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dc7182465c, Farmer: S.krishna reddy S/O Pratap Reddy, FarmerNumber: 9849962499, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:08:41, OfflineSinceFrom: 00:46 Hours;
+55. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dfc1850324, Farmer: E.pullaiah S/O Bushaiah, FarmerNumber: 9704093762, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 16:13:47, OfflineSinceFrom: 25:41 Hours;
+56. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e06187c069, Farmer: S VenkatReddy S/O Not available, FarmerNumber: 9989253211, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:38, OfflineSinceFrom: 00:40 Hours;
+57. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e9318501ab, Farmer: S.Rami Reddy S/O Narsi reddy, FarmerNumber: 9951613522, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:11:01, OfflineSinceFrom: 00:43 Hours;
+58. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e94185015c, Farmer: Ailuru Laxma Reddy S/O Not available, FarmerNumber: 9908603607, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 04:25:52, OfflineSinceFrom: 37:29 Hours;
+59. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ea4187c19e, Farmer: D.Triveni S/O Suresh, FarmerNumber: 8106009095, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:39, OfflineSinceFrom: 00:39 Hours;
+60. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f15185032b, Farmer: A.Vani sree S/O Srinivas Reddy , FarmerNumber: 9505798192, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:06:51, OfflineSinceFrom: 00:48 Hours;
+61. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f42187c110, Farmer: CH Srinivasa rao S/O Ramakrishna, FarmerNumber: 9177456691, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:56, OfflineSinceFrom: 00:41 Hours;
+62. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f67187c141, Farmer: D Chitti babu S/O Not available, FarmerNumber: 9505547622, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:38:59, OfflineSinceFrom: 01:16 Hours;
+63. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fa718502e9, Farmer: A.Ramakrishna Reddy  S/O Nagi reddy, FarmerNumber: 9543268883, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:20:29, OfflineSinceFrom: 00:34 Hours;
+64. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fb21850069, Farmer: M.Anvesh S/O Balaram, FarmerNumber: 9542692619, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:56:11, OfflineSinceFrom: 00:58 Hours;
+65. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fc8187c0b2, Farmer: J Krishna Reddy S/O Not available, FarmerNumber: 6303555056, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:49, OfflineSinceFrom: 00:39 Hours;
+66. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fde187c11a, Farmer: Venkat Reddy S/O Rami reddy, FarmerNumber: 9177557150, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:16:12, OfflineSinceFrom: 00:38 Hours;
+67. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84042000181be69, Farmer: Ailuru Bikshma Reddy S/O Not available, FarmerNumber: 9701475722, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:08:30, OfflineSinceFrom: 00:46 Hours
+
+Gateway offline immediate action required.
+15-04-2025 18:03:45 Dear Ajay IIRR,
+
+Your Device Details:
+1. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041028187c1e9, Farmer:  Rami reddy S/O Raju reddy, FarmerNumber: 9849187101, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:23:39, OfflineSinceFrom: 18:40 Hours
+2. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411bc187c040, Farmer: laxmi narashimha S/O Narayana, FarmerNumber: 9963074126, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:26:10, OfflineSinceFrom: 18:37 Hours
+3. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411e4187be48, Farmer: Mahesh S/O Venkanna, FarmerNumber: 9014739800, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:08:21, OfflineSinceFrom: 18:55 Hours
+4. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840412cc18501c1, Farmer: K.Chinna saidhulu S/O Badaiah, FarmerNumber: 9492359580, Village: Neelaigudem, GatewayUpdatedTime: 2024-12-31 14:01:42, OfflineSinceFrom: 24:02 Hours
+5. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041328187c1d1, Farmer: lavuri naveen S/O lavuri hari, FarmerNumber: 7569295257, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:16:03, OfflineSinceFrom: 18:47 Hours
+6. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: A84041433185003A, Farmer: Vemula Saidulu S/O Not available, FarmerNumber: 8466952560, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-13 11:07:27, OfflineSinceFrom: 98:56 Hours
+7. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414e718500fa, Farmer: G.Dharma Reddy S/O Not available, FarmerNumber: 9908253092, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-13 11:10:29, OfflineSinceFrom: 98:53 Hours
+8. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404158618501e8, Farmer: KasiReddy NagiReddy S/O Not available, FarmerNumber: 9542563992, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-15 01:52:44, OfflineSinceFrom: 16:11 Hours
+9. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404171f18501bf, Farmer: B prashanth S/O Nagulu, FarmerNumber: 7659918625, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:22:14, OfflineSinceFrom: 18:41 Hours
+10. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417271850072, Farmer: lavuri naveen S/O lavuri hari, FarmerNumber: 7569295257, Village: Gaddipally, GatewayUpdatedTime: 2025-03-27 13:39:29, OfflineSinceFrom: 60:24 Hours
+11. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417c3187bedb, Farmer: Sunkari ajay S/O krishnaiah, FarmerNumber: 8466032562, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 00:05:35, OfflineSinceFrom: 17:58 Hours
+12. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404185a187c0a2, Farmer: K. sridhar S/O rammulu, FarmerNumber: 9912957547, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-12 18:08:13, OfflineSinceFrom: 15:55 Hours
+13. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418fc187be6c, Farmer: Anthula mahesh S/O raju, FarmerNumber: 9912389061, Village: Gaddipally, GatewayUpdatedTime: 2025-04-08 10:45:57, OfflineSinceFrom: 75:18 Hours
+14. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404198f187bf08, Farmer: Nagalaxmi S/O Nagulu, FarmerNumber: 9705700493, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:10:09, OfflineSinceFrom: 18:53 Hours
+15. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a44187bf0c, Farmer: R Mallaiah S/O Not available, FarmerNumber: 9912881314, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-13 11:07:33, OfflineSinceFrom: 98:56 Hours
+16. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041afb187c033, Farmer: CH.Murari S/O Not available, FarmerNumber: 9676624328, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-13 16:39:54, OfflineSinceFrom: 49:24 Hours
+17. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b76187c056, Farmer: venkateshwarlu S/O girraiah, FarmerNumber: 6304871855, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:22:57, OfflineSinceFrom: 18:41 Hours
+18. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c94187c04a, Farmer: Jayamma S/O anjaiah, FarmerNumber: 9346179168, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 04:54:50, OfflineSinceFrom: 13:09 Hours
+19. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ce3185018d, Farmer: lavuri bharath S/O  lavuri raghu, FarmerNumber: 8639265756, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:22:02, OfflineSinceFrom: 18:41 Hours
+20. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dbf187c044, Farmer: sunkari bikshamiah S/O harichandhra, FarmerNumber: 9989162627, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:23:29, OfflineSinceFrom: 18:40 Hours
+21. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f15185032b, Farmer: K Ram Babu S/O Not available, FarmerNumber: 9989964513, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-11 13:06:51, OfflineSinceFrom: 00:57 Hours
+22. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f4f1850121, Farmer: D Naresh S/O Ramesh D, FarmerNumber: 9290615952, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 06:06:42, OfflineSinceFrom: 11:57 Hours
+
+Devices offline immediate action required.
+15-04-2025 18:03:45 Dear Sai kiran IIRR,
+
+Your Device Details:
+1. DeviceType: Gateway, DeviceID: a84041ffff28784c, Farmer: Kiran S/O Not Available, FarmerNumber: 7893989055, Village: Dupahad, GatewayUpdatedTime: 2025-04-09 13:58:43, OfflineSinceFrom: 48:05 Hours
+2. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840410a0187bec9, Farmer: Parmesh Pinnani S/O Kumuriah, FarmerNumber: 9542191360, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:26:32, OfflineSinceFrom: 18:37 Hours
+3. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411ce187c072, Farmer: Karnam narender S/O Not available, FarmerNumber: 9948460211, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:24:55, OfflineSinceFrom: 18:39 Hours
+4. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404125e1850051, Farmer: Swaroopa S/O Not available, FarmerNumber: 7095461842, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:24:35, OfflineSinceFrom: 18:39 Hours
+5. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404127b187c01d, Farmer: Palvai saidhulu S/O Not available, FarmerNumber: 9666303661, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 04:37:32, OfflineSinceFrom: 13:26 Hours
+6. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404127b187c059, Farmer: Guggila Pikkaiah S/O Mallaiah, FarmerNumber: 9441659250, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 04:26:34, OfflineSinceFrom: 13:37 Hours
+7. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414b61850174, Farmer: Kiran S/O Not Available, FarmerNumber: 7893989055, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 06:22:31, OfflineSinceFrom: 11:41 Hours
+8. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404158618501e8, Farmer: Nirmala Raju S/O Venkayya, FarmerNumber: 9951251978, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 01:52:44, OfflineSinceFrom: 16:11 Hours
+9. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415a9187c00c, Farmer:  Bullepalli saidhulu S/O pichaiah, FarmerNumber: 9010154520, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:24:46, OfflineSinceFrom: 18:39 Hours
+10. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415ae187bf32, Farmer: Yerakala anjaiah S/O Kotaiah, FarmerNumber: 9959209190, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 10:07:29, OfflineSinceFrom: 07:56 Hours
+11. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415fb18501c5, Farmer:  Pinnani nagaraju S/O Venkateshwarlu, FarmerNumber: 8008355708, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 06:36:52, OfflineSinceFrom: 11:27 Hours
+12. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840416fb187c03b, Farmer: Pinnani Saidulu S/O Venkateshwarlu, FarmerNumber: 9951514817, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:25:16, OfflineSinceFrom: 18:38 Hours
+13. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041813187c035, Farmer: D Aravind S/O Not available, FarmerNumber: 9347782775, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 04:25:26, OfflineSinceFrom: 13:38 Hours
+14. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041862187c184, Farmer: Rambabu S/O Not available, FarmerNumber: 9133792723, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:29:14, OfflineSinceFrom: 18:34 Hours
+15. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404187d187be6f, Farmer: Yerakala veeraiah S/O veeraiah, FarmerNumber: 9640630803, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 09:06:51, OfflineSinceFrom: 08:57 Hours
+16. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418a4187be1f, Farmer: venkanna yerakala S/O Venkateshwarlu, FarmerNumber: 9704613568, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:24:15, OfflineSinceFrom: 18:39 Hours
+17. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418d718500e7, Farmer: Gopagani Laxminarayana S/O Siddayya, FarmerNumber: 9494569133, Village: Dupahad, GatewayUpdatedTime: 2025-04-09 13:45:22, OfflineSinceFrom: 48:18 Hours
+18. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418dd187c058, Farmer: Karnam shoba S/O Not available, FarmerNumber: 9030424106, Village: Dupahad, GatewayUpdatedTime: 2025-03-15 19:53:18, OfflineSinceFrom: 42:10 Hours
+19. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418e4185009e, Farmer: Kampoju bramachari S/O Venkateshwarlu, FarmerNumber: 8498896515, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 05:54:47, OfflineSinceFrom: 12:09 Hours
+20. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404197d187bed4, Farmer: Challa Venkateswarlu S/O Lingayya, FarmerNumber: 9704710772, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:23:31, OfflineSinceFrom: 18:40 Hours
+21. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041988187c139, Farmer: Dongari saidhulu S/O mattaiah, FarmerNumber: 9948100435, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:23:10, OfflineSinceFrom: 18:40 Hours
+22. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a3a1850036, Farmer: Naveen S/O Pedda saidhulu, FarmerNumber: 9010504554, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 05:10:01, OfflineSinceFrom: 12:53 Hours
+23. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ab1187c13e, Farmer: Hussain S/O Not available, FarmerNumber: 9505027208, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:29:26, OfflineSinceFrom: 18:34 Hours
+24. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b04187bf39, Farmer: Ravi kumar mamidi S/O Not available, FarmerNumber: 8498075516, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:27:42, OfflineSinceFrom: 18:36 Hours
+25. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b1b187c02d, Farmer: Pagidi kamalakar S/O Nagaiah, FarmerNumber: 9849933497, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 07:11:17, OfflineSinceFrom: 10:52 Hours
+26. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ba2187be08, Farmer: Sathish S/O Not available, FarmerNumber: 9949730083, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:21:10, OfflineSinceFrom: 18:42 Hours
+27. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041bc11850034, Farmer: Bittu rambabu S/O srinivasulu, FarmerNumber: 9390800466, Village: Gaddipally, GatewayUpdatedTime: 2025-04-10 10:59:54, OfflineSinceFrom: 27:04 Hours
+28. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c1a187c1e5, Farmer: Challa aravind S/O Not available, FarmerNumber: 9666752650, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 05:22:38, OfflineSinceFrom: 12:41 Hours
+29. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c6c1850152, Farmer: Pabbathi aravind S/O Venkateshwarlu, FarmerNumber: 7981036124, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 03:22:06, OfflineSinceFrom: 14:41 Hours
+30. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041cda187c041, Farmer: Aveen Varma S/O Not availalble, FarmerNumber: 7702214360, Village: Dupahad, GatewayUpdatedTime: 2025-03-26 14:19:45, OfflineSinceFrom: 83:44 Hours
+31. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d33187bf1a, Farmer: Yerakala hussain S/O veeraiah, FarmerNumber: 9010876609, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 05:23:04, OfflineSinceFrom: 12:40 Hours
+32. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041db21850047, Farmer: Pinnani Saidulu S/O Venkateshwarlu, FarmerNumber: 9951514817, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:23:27, OfflineSinceFrom: 18:40 Hours
+33. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e40187c158, Farmer: Swathi S/O Not available, FarmerNumber: 9700257856, Village: Dupahad, GatewayUpdatedTime: 2025-04-08 10:46:52, OfflineSinceFrom: 75:17 Hours
+34. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fe6187c04e, Farmer: Gundu nagarjuna  S/O Appanna, FarmerNumber: 9652204428, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 04:56:10, OfflineSinceFrom: 13:07 Hours
+
+Devices offline immediate action required.
+15-04-2025 18:03:45 Dear Sreeman IIRR,
+
+Your Device Details:
+1. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404134f185030f, Farmer: E.kutumbarao S/O Narsaiah, FarmerNumber: 9956630513, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:17:26, OfflineSinceFrom: 00:46 Hours
+
+Devices offline immediate action required.
+15-04-2025 18:03:45 Dear Srikanth IIRR,
+
+Your Device Details:
+1. DeviceType: Gateway, DeviceID: a84041ffff1f9794, Farmer: T.Daveed S/O Chandraiah, FarmerNumber: 9848163862, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-13 02:46:34, OfflineSinceFrom: 63:17 Hours
+2. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041059187c0fd, Farmer: S.Laxmi narayana S/O Krishna rao, FarmerNumber: 9908801247, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:54, OfflineSinceFrom: 00:49 Hours
+3. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041061187c12a, Farmer: Krishna reddy S/O Rami reddy, FarmerNumber: 9505220641, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:14:29, OfflineSinceFrom: 00:49 Hours
+4. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041070187c188, Farmer: S.Vigneshwar Reddy S/O Venkata Reddy, FarmerNumber: 9492095539, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 12:45:35, OfflineSinceFrom: 01:18 Hours
+5. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840410af187c14e, Farmer: K Ramakrishna S/O Not available, FarmerNumber: 9542462062, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:52:43, OfflineSinceFrom: 01:11 Hours
+6. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411be187c1da, Farmer: A.Vishnuvardhan reddy S/O  Krishna reddy, FarmerNumber: 9059605641, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:57, OfflineSinceFrom: 00:49 Hours
+7. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840412a21850081, Farmer: K.Raghava Reddy S/O Venkat reddy , FarmerNumber: 9346222811, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:12:16, OfflineSinceFrom: 00:51 Hours
+8. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840412a918501e6, Farmer: A.Appi Reddy S/O Not available, FarmerNumber: 9704863676, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:07:35, OfflineSinceFrom: 00:56 Hours
+9. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404132818500ce, Farmer: Anji S/O Suryam, FarmerNumber: 7416945480, Village: Baswapuram, GatewayUpdatedTime: 2025-03-18 12:19:14, OfflineSinceFrom: 77:44 Hours
+10. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840413641850008, Farmer: .S.Chalapathi S/O Krishna Reddy, FarmerNumber: 9177143074, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:12:47, OfflineSinceFrom: 00:51 Hours
+11. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404143e1850144, Farmer: Selam Krishna Reddy S/O Pratap Reddy, FarmerNumber: 9494498996, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:03:08, OfflineSinceFrom: 01:00 Hours
+12. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404148418501c6, Farmer: S.Rama rao S/O Laxmaiah, FarmerNumber: 7659931025, Village: Baswapuram, GatewayUpdatedTime: 2025-04-14 04:25:14, OfflineSinceFrom: 37:38 Hours
+13. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414a0187c1cc, Farmer: CH Krishna rao S/O Ramakrishna , FarmerNumber: 9505157718, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:07:58, OfflineSinceFrom: 00:56 Hours
+14. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414d7187c172, Farmer: A.Alekya S/O Koti reddy, FarmerNumber: 8187833646, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:11, OfflineSinceFrom: 00:48 Hours
+15. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404152818502e5, Farmer: Nagesh S/O Sathanarayana, FarmerNumber: 7941425623, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 12:40:22, OfflineSinceFrom: 01:23 Hours
+16. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415bc184fffb, Farmer: Madhavi S/O Pullaiah, FarmerNumber: 8121052762, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:45, OfflineSinceFrom: 00:48 Hours
+17. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415e918502eb, Farmer: T.Krishna Chari S/O Ramachari, FarmerNumber: 9989362610, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:39:44, OfflineSinceFrom: 01:24 Hours
+18. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415fa187c15c, Farmer: A.Narsimha Reddy S/O Krishna reddy, FarmerNumber: 9440639867, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:01:57, OfflineSinceFrom: 01:02 Hours
+19. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840416c4187c1de, Farmer: S Venugopal Reddy S/O Not available, FarmerNumber: 9182277029, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:11:29, OfflineSinceFrom: 00:52 Hours
+20. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840416eb187c090, Farmer: Anji S/O Suryam, FarmerNumber: 7416945480, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:10:40, OfflineSinceFrom: 00:53 Hours
+21. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041727187c066, Farmer: CH Laxmi S/O Not given, FarmerNumber: 9440104903, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:05:34, OfflineSinceFrom: 00:58 Hours
+22. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041747187be4c, Farmer: T.Maraiah S/O Not available, FarmerNumber: 9618896923, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:12:12, OfflineSinceFrom: 00:51 Hours
+23. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404179b187be6e, Farmer: A.Chalapathi Rao S/O Venkat reddy, FarmerNumber: 8500665865, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:25, OfflineSinceFrom: 00:49 Hours
+24. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417ab187c1a4, Farmer: B.Jagan Mohan Rao S/O Krishna murthy, FarmerNumber: 7981529043, Village: Baswapuram, GatewayUpdatedTime: 2025-04-08 13:04:15, OfflineSinceFrom: 72:59 Hours
+25. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417f718502e6, Farmer: K.Sujatha Reddy S/O Venkat reddy, FarmerNumber: 7842504223, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:37, OfflineSinceFrom: 00:49 Hours
+26. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041824185003d, Farmer: S.Nagabhushanam Reddy S/O Narsi Reddy, FarmerNumber: 6304786052, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:04, OfflineSinceFrom: 00:49 Hours
+27. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404185c18500db, Farmer: D Venkatraoamma S/O Not available, FarmerNumber: 9177570504, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:03, OfflineSinceFrom: 00:50 Hours
+28. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418c2187c076, Farmer: J.Narasimha reddy S/O Laxmi reddy, FarmerNumber: 8200823384, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:06:57, OfflineSinceFrom: 00:57 Hours
+29. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418e418500a2, Farmer: D Suresh S/O Satyanarayana, FarmerNumber: 7989806909, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:13, OfflineSinceFrom: 00:50 Hours
+30. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404199a185010a, Farmer: Nagaraju S/O Laxma Rao, FarmerNumber: 9701759808, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:30, OfflineSinceFrom: 00:48 Hours
+31. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840419de185005e, Farmer: Aliveli manga.k S/O Gopi reddy, FarmerNumber: 9573220642, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 06:52:38, OfflineSinceFrom: 35:11 Hours
+32. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a17187c00d, Farmer: Narasimha rao S/O Sitaramaiah, FarmerNumber: 9100665499, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:19, OfflineSinceFrom: 00:50 Hours
+33. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a1f187c19c, Farmer: MD.Mogula saib S/O Saidulu, FarmerNumber: 9010784997, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:09:51, OfflineSinceFrom: 00:54 Hours
+34. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a65187c189, Farmer: Koti reddy S/O Rami reddy, FarmerNumber: 9666008716, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:08:03, OfflineSinceFrom: 00:55 Hours
+35. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a6618500bf, Farmer: Selam Appi reddy S/O Ramulu, FarmerNumber: 9550898019, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:11:35, OfflineSinceFrom: 00:52 Hours
+36. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a73187c1c5, Farmer: D.Narasimha rao S/O Malsuraiah, FarmerNumber: 9876080876, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:46, OfflineSinceFrom: 00:48 Hours
+37. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a98187c17f, Farmer: S.Gopal rao S/O Ramaiah, FarmerNumber: 9000097080, Village: Baswapuram, GatewayUpdatedTime: 2025-04-14 04:47:04, OfflineSinceFrom: 37:16 Hours
+38. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a9b187c135, Farmer: Karnati Srinivas Reddy S/O Not available, FarmerNumber: 9346394356, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:07:54, OfflineSinceFrom: 00:56 Hours
+39. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ab9187c0b3, Farmer: D Srinivas rao S/O Not available, FarmerNumber: 9000438446, Village: Baswapuram, GatewayUpdatedTime: 2025-04-08 13:17:58, OfflineSinceFrom: 72:46 Hours
+40. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041abc187bf3a, Farmer: P.venkat reddy S/O Seetharam reddy, FarmerNumber: 9381979212, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:05:27, OfflineSinceFrom: 00:58 Hours
+41. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041aea187c01c, Farmer: Gudure Rami Reddy S/O Not available, FarmerNumber: 9000335222, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 12:55:23, OfflineSinceFrom: 01:08 Hours
+42. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b22185008a, Farmer: Raghavender Reddy S/O Venkat reddy, FarmerNumber: 6302463213, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:16:57, OfflineSinceFrom: 00:47 Hours
+43. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b80187c127, Farmer: G.Narsi Reddy S/O Not available, FarmerNumber: 7995372243, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:14:59, OfflineSinceFrom: 00:49 Hours
+44. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c52187c039, Farmer: A.Upender Reddy S/O Appireddy, FarmerNumber: 6281697353, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:06:09, OfflineSinceFrom: 00:57 Hours
+45. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041cb8187c112, Farmer: Lakkireddy Appireddy S/O Not available, FarmerNumber: 9951152138, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-15 01:09:45, OfflineSinceFrom: 16:54 Hours
+46. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041cde1850188, Farmer: J Madhav Reddy S/O Venkat reddy, FarmerNumber: 6303651325, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:54, OfflineSinceFrom: 00:50 Hours
+47. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d1c18501b3, Farmer: J.Krishna Reddy S/O Laxmi Reddy, FarmerNumber: 9566974899, Village: Baswapuram, GatewayUpdatedTime: 2025-04-15 00:07:27, OfflineSinceFrom: 17:56 Hours
+48. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d44187c159, Farmer: P.Ramu S/O Not available, FarmerNumber: 8790095633, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:25, OfflineSinceFrom: 00:48 Hours
+49. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d561850026, Farmer: CH Krishna rao S/O Ramakrishna , FarmerNumber: 9505157718, Village: Baswapuram, GatewayUpdatedTime: 2025-03-18 17:19:03, OfflineSinceFrom: 72:44 Hours
+50. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d64187c0c8, Farmer: Gurrala Laxma Reddy S/O Not available, FarmerNumber: 9666118549, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:08, OfflineSinceFrom: 00:48 Hours
+51. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d71187c032, Farmer: K.Srikanth S/O srinivas Reddy , FarmerNumber: 9550845443, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:22, OfflineSinceFrom: 00:49 Hours
+52. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d9318500b1, Farmer: V.Sathyanarayana S/O Krishna Reddy, FarmerNumber: 9573041291, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 04:44:17, OfflineSinceFrom: 37:19 Hours
+53. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dbf187beea, Farmer: D Rangarao S/O Not available, FarmerNumber: 9182555376, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:32, OfflineSinceFrom: 00:48 Hours
+54. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dc7182465c, Farmer: S.krishna reddy S/O Pratap Reddy, FarmerNumber: 9849962499, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:08:41, OfflineSinceFrom: 00:55 Hours
+55. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dfc1850324, Farmer: E.pullaiah S/O Bushaiah, FarmerNumber: 9704093762, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 16:13:47, OfflineSinceFrom: 25:50 Hours
+56. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e06187c069, Farmer: S VenkatReddy S/O Not available, FarmerNumber: 9989253211, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:38, OfflineSinceFrom: 00:49 Hours
+57. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e9318501ab, Farmer: S.Rami Reddy S/O Narsi reddy, FarmerNumber: 9951613522, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:11:01, OfflineSinceFrom: 00:52 Hours
+58. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e94185015c, Farmer: Ailuru Laxma Reddy S/O Not available, FarmerNumber: 9908603607, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 04:25:52, OfflineSinceFrom: 37:38 Hours
+59. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ea4187c19e, Farmer: D.Triveni S/O Suresh, FarmerNumber: 8106009095, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:39, OfflineSinceFrom: 00:48 Hours
+60. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f15185032b, Farmer: A.Vani sree S/O Srinivas Reddy , FarmerNumber: 9505798192, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:06:51, OfflineSinceFrom: 00:57 Hours
+61. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f42187c110, Farmer: CH Srinivasa rao S/O Ramakrishna, FarmerNumber: 9177456691, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:56, OfflineSinceFrom: 00:50 Hours
+62. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f67187c141, Farmer: D Chitti babu S/O Not available, FarmerNumber: 9505547622, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:38:59, OfflineSinceFrom: 01:25 Hours
+63. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fa718502e9, Farmer: A.Ramakrishna Reddy  S/O Nagi reddy, FarmerNumber: 9543268883, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:20:29, OfflineSinceFrom: 00:43 Hours
+64. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fb21850069, Farmer: M.Anvesh S/O Balaram, FarmerNumber: 9542692619, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:56:11, OfflineSinceFrom: 01:07 Hours
+65. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fc8187c0b2, Farmer: J Krishna Reddy S/O Not available, FarmerNumber: 6303555056, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:49, OfflineSinceFrom: 00:48 Hours
+66. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fde187c11a, Farmer: Venkat Reddy S/O Rami reddy, FarmerNumber: 9177557150, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:16:12, OfflineSinceFrom: 00:47 Hours
+67. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84042000181be69, Farmer: Ailuru Bikshma Reddy S/O Not available, FarmerNumber: 9701475722, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:08:30, OfflineSinceFrom: 00:55 Hours
+
+Devices offline immediate action required.
+15-04-2025 18:24:33 Dear Ajay IIRR,
+
+Your Device Details:
+1. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041028187c1e9, Farmer:  Rami reddy S/O Raju reddy, FarmerNumber: 9849187101, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:23:39, OfflineSinceFrom: 19:01 Hours
+2. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411bc187c040, Farmer: laxmi narashimha S/O Narayana, FarmerNumber: 9963074126, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:26:10, OfflineSinceFrom: 18:58 Hours
+3. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411e4187be48, Farmer: Mahesh S/O Venkanna, FarmerNumber: 9014739800, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:08:21, OfflineSinceFrom: 19:16 Hours
+4. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840412cc18501c1, Farmer: K.Chinna saidhulu S/O Badaiah, FarmerNumber: 9492359580, Village: Neelaigudem, GatewayUpdatedTime: 2024-12-31 14:01:42, OfflineSinceFrom: 24:23 Hours
+5. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041328187c1d1, Farmer: lavuri naveen S/O lavuri hari, FarmerNumber: 7569295257, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:16:03, OfflineSinceFrom: 19:08 Hours
+6. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: A84041433185003A, Farmer: Vemula Saidulu S/O Not available, FarmerNumber: 8466952560, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-13 11:07:27, OfflineSinceFrom: 99:17 Hours
+7. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414e718500fa, Farmer: G.Dharma Reddy S/O Not available, FarmerNumber: 9908253092, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-13 11:10:29, OfflineSinceFrom: 99:14 Hours
+8. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404158618501e8, Farmer: KasiReddy NagiReddy S/O Not available, FarmerNumber: 9542563992, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-15 01:52:44, OfflineSinceFrom: 16:32 Hours
+9. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404171f18501bf, Farmer: B prashanth S/O Nagulu, FarmerNumber: 7659918625, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:22:14, OfflineSinceFrom: 19:02 Hours
+10. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417271850072, Farmer: lavuri naveen S/O lavuri hari, FarmerNumber: 7569295257, Village: Gaddipally, GatewayUpdatedTime: 2025-03-27 13:39:29, OfflineSinceFrom: 60:45 Hours
+11. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417c3187bedb, Farmer: Sunkari ajay S/O krishnaiah, FarmerNumber: 8466032562, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 00:05:35, OfflineSinceFrom: 18:19 Hours
+12. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404185a187c0a2, Farmer: K. sridhar S/O rammulu, FarmerNumber: 9912957547, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-12 18:08:13, OfflineSinceFrom: 16:16 Hours
+13. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418fc187be6c, Farmer: Anthula mahesh S/O raju, FarmerNumber: 9912389061, Village: Gaddipally, GatewayUpdatedTime: 2025-04-08 10:45:57, OfflineSinceFrom: 75:39 Hours
+14. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404198f187bf08, Farmer: Nagalaxmi S/O Nagulu, FarmerNumber: 9705700493, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:10:09, OfflineSinceFrom: 19:14 Hours
+15. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a44187bf0c, Farmer: R Mallaiah S/O Not available, FarmerNumber: 9912881314, Village: Neelaigudem, GatewayUpdatedTime: 2025-03-13 11:07:33, OfflineSinceFrom: 99:17 Hours
+16. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041afb187c033, Farmer: CH.Murari S/O Not available, FarmerNumber: 9676624328, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-13 16:39:54, OfflineSinceFrom: 49:45 Hours
+17. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b76187c056, Farmer: venkateshwarlu S/O girraiah, FarmerNumber: 6304871855, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:22:57, OfflineSinceFrom: 19:02 Hours
+18. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c94187c04a, Farmer: Jayamma S/O anjaiah, FarmerNumber: 9346179168, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 04:54:50, OfflineSinceFrom: 13:30 Hours
+19. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ce3185018d, Farmer: lavuri bharath S/O  lavuri raghu, FarmerNumber: 8639265756, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:22:02, OfflineSinceFrom: 19:02 Hours
+20. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dbf187c044, Farmer: sunkari bikshamiah S/O harichandhra, FarmerNumber: 9989162627, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:23:29, OfflineSinceFrom: 19:01 Hours
+21. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f15185032b, Farmer: K Ram Babu S/O Not available, FarmerNumber: 9989964513, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-11 13:06:51, OfflineSinceFrom: 01:18 Hours
+22. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f4f1850121, Farmer: D Naresh S/O Ramesh D, FarmerNumber: 9290615952, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 06:06:42, OfflineSinceFrom: 12:18 Hours
+
+Devices offline immediate action required.
+15-04-2025 18:24:36 Dear Sai kiran IIRR,
+
+Your Device Details:
+1. DeviceType: Gateway, DeviceID: a84041ffff28784c, Farmer: Kiran S/O Not Available, FarmerNumber: 7893989055, Village: Dupahad, GatewayUpdatedTime: 2025-04-09 13:58:43, OfflineSinceFrom: 48:26 Hours
+2. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840410a0187bec9, Farmer: Parmesh Pinnani S/O Kumuriah, FarmerNumber: 9542191360, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:26:32, OfflineSinceFrom: 18:58 Hours
+3. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411ce187c072, Farmer: Karnam narender S/O Not available, FarmerNumber: 9948460211, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:24:55, OfflineSinceFrom: 19:00 Hours
+4. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404125e1850051, Farmer: Swaroopa S/O Not available, FarmerNumber: 7095461842, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:24:35, OfflineSinceFrom: 19:00 Hours
+5. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404127b187c01d, Farmer: Palvai saidhulu S/O Not available, FarmerNumber: 9666303661, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 04:37:32, OfflineSinceFrom: 13:47 Hours
+6. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404127b187c059, Farmer: Guggila Pikkaiah S/O Mallaiah, FarmerNumber: 9441659250, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 04:26:34, OfflineSinceFrom: 13:58 Hours
+7. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414b61850174, Farmer: Kiran S/O Not Available, FarmerNumber: 7893989055, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 06:22:31, OfflineSinceFrom: 12:02 Hours
+8. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404158618501e8, Farmer: Nirmala Raju S/O Venkayya, FarmerNumber: 9951251978, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 01:52:44, OfflineSinceFrom: 16:32 Hours
+9. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415a9187c00c, Farmer:  Bullepalli saidhulu S/O pichaiah, FarmerNumber: 9010154520, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:24:46, OfflineSinceFrom: 19:00 Hours
+10. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415ae187bf32, Farmer: Yerakala anjaiah S/O Kotaiah, FarmerNumber: 9959209190, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 10:07:29, OfflineSinceFrom: 08:17 Hours
+11. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415fb18501c5, Farmer:  Pinnani nagaraju S/O Venkateshwarlu, FarmerNumber: 8008355708, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 06:36:52, OfflineSinceFrom: 11:48 Hours
+12. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840416fb187c03b, Farmer: Pinnani Saidulu S/O Venkateshwarlu, FarmerNumber: 9951514817, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:25:16, OfflineSinceFrom: 18:59 Hours
+13. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041813187c035, Farmer: D Aravind S/O Not available, FarmerNumber: 9347782775, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 04:25:26, OfflineSinceFrom: 13:59 Hours
+14. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041862187c184, Farmer: Rambabu S/O Not available, FarmerNumber: 9133792723, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:29:14, OfflineSinceFrom: 18:55 Hours
+15. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404187d187be6f, Farmer: Yerakala veeraiah S/O veeraiah, FarmerNumber: 9640630803, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 09:06:51, OfflineSinceFrom: 09:18 Hours
+16. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418a4187be1f, Farmer: venkanna yerakala S/O Venkateshwarlu, FarmerNumber: 9704613568, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:24:15, OfflineSinceFrom: 19:00 Hours
+17. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418d718500e7, Farmer: Gopagani Laxminarayana S/O Siddayya, FarmerNumber: 9494569133, Village: Dupahad, GatewayUpdatedTime: 2025-04-09 13:45:22, OfflineSinceFrom: 48:39 Hours
+18. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418dd187c058, Farmer: Karnam shoba S/O Not available, FarmerNumber: 9030424106, Village: Dupahad, GatewayUpdatedTime: 2025-03-15 19:53:18, OfflineSinceFrom: 42:31 Hours
+19. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418e4185009e, Farmer: Kampoju bramachari S/O Venkateshwarlu, FarmerNumber: 8498896515, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 05:54:47, OfflineSinceFrom: 12:30 Hours
+20. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404197d187bed4, Farmer: Challa Venkateswarlu S/O Lingayya, FarmerNumber: 9704710772, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:23:31, OfflineSinceFrom: 19:01 Hours
+21. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041988187c139, Farmer: Dongari saidhulu S/O mattaiah, FarmerNumber: 9948100435, Village: Gaddipally, GatewayUpdatedTime: 2025-04-14 23:23:10, OfflineSinceFrom: 19:01 Hours
+22. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a3a1850036, Farmer: Naveen S/O Pedda saidhulu, FarmerNumber: 9010504554, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 05:10:01, OfflineSinceFrom: 13:14 Hours
+23. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ab1187c13e, Farmer: Hussain S/O Not available, FarmerNumber: 9505027208, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:29:26, OfflineSinceFrom: 18:55 Hours
+24. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b04187bf39, Farmer: Ravi kumar mamidi S/O Not available, FarmerNumber: 8498075516, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:27:42, OfflineSinceFrom: 18:57 Hours
+25. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b1b187c02d, Farmer: Pagidi kamalakar S/O Nagaiah, FarmerNumber: 9849933497, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 07:11:17, OfflineSinceFrom: 11:13 Hours
+26. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ba2187be08, Farmer: Sathish S/O Not available, FarmerNumber: 9949730083, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:21:10, OfflineSinceFrom: 19:03 Hours
+27. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041bc11850034, Farmer: Bittu rambabu S/O srinivasulu, FarmerNumber: 9390800466, Village: Gaddipally, GatewayUpdatedTime: 2025-04-10 10:59:54, OfflineSinceFrom: 27:25 Hours
+28. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c1a187c1e5, Farmer: Challa aravind S/O Not available, FarmerNumber: 9666752650, Village: Dupahad, GatewayUpdatedTime: 2025-04-15 05:22:38, OfflineSinceFrom: 13:02 Hours
+29. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c6c1850152, Farmer: Pabbathi aravind S/O Venkateshwarlu, FarmerNumber: 7981036124, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 03:22:06, OfflineSinceFrom: 15:02 Hours
+30. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041cda187c041, Farmer: Aveen Varma S/O Not availalble, FarmerNumber: 7702214360, Village: Dupahad, GatewayUpdatedTime: 2025-03-26 14:19:45, OfflineSinceFrom: 84:05 Hours
+31. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d33187bf1a, Farmer: Yerakala hussain S/O veeraiah, FarmerNumber: 9010876609, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 05:23:04, OfflineSinceFrom: 13:01 Hours
+32. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041db21850047, Farmer: Pinnani Saidulu S/O Venkateshwarlu, FarmerNumber: 9951514817, Village: Dupahad, GatewayUpdatedTime: 2025-04-14 23:23:27, OfflineSinceFrom: 19:01 Hours
+33. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e40187c158, Farmer: Swathi S/O Not available, FarmerNumber: 9700257856, Village: Dupahad, GatewayUpdatedTime: 2025-04-08 10:46:52, OfflineSinceFrom: 75:38 Hours
+34. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fe6187c04e, Farmer: Gundu nagarjuna  S/O Appanna, FarmerNumber: 9652204428, Village: Gaddipally, GatewayUpdatedTime: 2025-04-15 04:56:10, OfflineSinceFrom: 13:28 Hours
+
+Devices offline immediate action required.
+15-04-2025 18:24:39 Dear Sreeman IIRR,
+
+Your Device Details:
+1. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404134f185030f, Farmer: E.kutumbarao S/O Narsaiah, FarmerNumber: 9956630513, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:17:26, OfflineSinceFrom: 01:07 Hours
+
+Devices offline immediate action required.
+15-04-2025 18:24:41 Dear Srikanth IIRR,
+
+Your Device Details:
+1. DeviceType: Gateway, DeviceID: a84041ffff1f9794, Farmer: T.Daveed S/O Chandraiah, FarmerNumber: 9848163862, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-13 02:46:34, OfflineSinceFrom: 63:38 Hours
+2. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041059187c0fd, Farmer: S.Laxmi narayana S/O Krishna rao, FarmerNumber: 9908801247, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:54, OfflineSinceFrom: 01:10 Hours
+3. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041061187c12a, Farmer: Krishna reddy S/O Rami reddy, FarmerNumber: 9505220641, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:14:29, OfflineSinceFrom: 01:10 Hours
+4. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041070187c188, Farmer: S.Vigneshwar Reddy S/O Venkata Reddy, FarmerNumber: 9492095539, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 12:45:35, OfflineSinceFrom: 01:39 Hours
+5. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840410af187c14e, Farmer: K Ramakrishna S/O Not available, FarmerNumber: 9542462062, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:52:43, OfflineSinceFrom: 01:32 Hours
+6. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840411be187c1da, Farmer: A.Vishnuvardhan reddy S/O  Krishna reddy, FarmerNumber: 9059605641, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:57, OfflineSinceFrom: 01:10 Hours
+7. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840412a21850081, Farmer: K.Raghava Reddy S/O Venkat reddy , FarmerNumber: 9346222811, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:12:16, OfflineSinceFrom: 01:12 Hours
+8. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840412a918501e6, Farmer: A.Appi Reddy S/O Not available, FarmerNumber: 9704863676, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:07:35, OfflineSinceFrom: 01:17 Hours
+9. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404132818500ce, Farmer: Anji S/O Suryam, FarmerNumber: 7416945480, Village: Baswapuram, GatewayUpdatedTime: 2025-03-18 12:19:14, OfflineSinceFrom: 78:05 Hours
+10. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840413641850008, Farmer: .S.Chalapathi S/O Krishna Reddy, FarmerNumber: 9177143074, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:12:47, OfflineSinceFrom: 01:12 Hours
+11. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404143e1850144, Farmer: Selam Krishna Reddy S/O Pratap Reddy, FarmerNumber: 9494498996, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:03:08, OfflineSinceFrom: 01:21 Hours
+12. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404148418501c6, Farmer: S.Rama rao S/O Laxmaiah, FarmerNumber: 7659931025, Village: Baswapuram, GatewayUpdatedTime: 2025-04-14 04:25:14, OfflineSinceFrom: 37:59 Hours
+13. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414a0187c1cc, Farmer: CH Krishna rao S/O Ramakrishna , FarmerNumber: 9505157718, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:07:58, OfflineSinceFrom: 01:17 Hours
+14. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840414d7187c172, Farmer: A.Alekya S/O Koti reddy, FarmerNumber: 8187833646, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:11, OfflineSinceFrom: 01:09 Hours
+15. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404152818502e5, Farmer: Nagesh S/O Sathanarayana, FarmerNumber: 7941425623, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 12:40:22, OfflineSinceFrom: 01:44 Hours
+16. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415bc184fffb, Farmer: Madhavi S/O Pullaiah, FarmerNumber: 8121052762, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:45, OfflineSinceFrom: 01:09 Hours
+17. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415e918502eb, Farmer: T.Krishna Chari S/O Ramachari, FarmerNumber: 9989362610, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:39:44, OfflineSinceFrom: 01:45 Hours
+18. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840415fa187c15c, Farmer: A.Narsimha Reddy S/O Krishna reddy, FarmerNumber: 9440639867, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:01:57, OfflineSinceFrom: 01:23 Hours
+19. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840416c4187c1de, Farmer: S Venugopal Reddy S/O Not available, FarmerNumber: 9182277029, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:11:29, OfflineSinceFrom: 01:13 Hours
+20. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840416eb187c090, Farmer: Anji S/O Suryam, FarmerNumber: 7416945480, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:10:40, OfflineSinceFrom: 01:14 Hours
+21. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041727187c066, Farmer: CH Laxmi S/O Not given, FarmerNumber: 9440104903, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:05:34, OfflineSinceFrom: 01:19 Hours
+22. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041747187be4c, Farmer: T.Maraiah S/O Not available, FarmerNumber: 9618896923, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:12:12, OfflineSinceFrom: 01:12 Hours
+23. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404179b187be6e, Farmer: A.Chalapathi Rao S/O Venkat reddy, FarmerNumber: 8500665865, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:25, OfflineSinceFrom: 01:10 Hours
+24. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417ab187c1a4, Farmer: B.Jagan Mohan Rao S/O Krishna murthy, FarmerNumber: 7981529043, Village: Baswapuram, GatewayUpdatedTime: 2025-04-08 13:04:15, OfflineSinceFrom: 73:20 Hours
+25. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840417f718502e6, Farmer: K.Sujatha Reddy S/O Venkat reddy, FarmerNumber: 7842504223, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:37, OfflineSinceFrom: 01:10 Hours
+26. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041824185003d, Farmer: S.Nagabhushanam Reddy S/O Narsi Reddy, FarmerNumber: 6304786052, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:04, OfflineSinceFrom: 01:10 Hours
+27. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404185c18500db, Farmer: D Venkatraoamma S/O Not available, FarmerNumber: 9177570504, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:03, OfflineSinceFrom: 01:11 Hours
+28. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418c2187c076, Farmer: J.Narasimha reddy S/O Laxmi reddy, FarmerNumber: 8200823384, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:06:57, OfflineSinceFrom: 01:18 Hours
+29. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840418e418500a2, Farmer: D Suresh S/O Satyanarayana, FarmerNumber: 7989806909, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:13, OfflineSinceFrom: 01:11 Hours
+30. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a8404199a185010a, Farmer: Nagaraju S/O Laxma Rao, FarmerNumber: 9701759808, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:30, OfflineSinceFrom: 01:09 Hours
+31. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a840419de185005e, Farmer: Aliveli manga.k S/O Gopi reddy, FarmerNumber: 9573220642, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 06:52:38, OfflineSinceFrom: 35:32 Hours
+32. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a17187c00d, Farmer: Narasimha rao S/O Sitaramaiah, FarmerNumber: 9100665499, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:19, OfflineSinceFrom: 01:11 Hours
+33. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a1f187c19c, Farmer: MD.Mogula saib S/O Saidulu, FarmerNumber: 9010784997, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:09:51, OfflineSinceFrom: 01:15 Hours
+34. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a65187c189, Farmer: Koti reddy S/O Rami reddy, FarmerNumber: 9666008716, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:08:03, OfflineSinceFrom: 01:16 Hours
+35. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a6618500bf, Farmer: Selam Appi reddy S/O Ramulu, FarmerNumber: 9550898019, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:11:35, OfflineSinceFrom: 01:13 Hours
+36. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a73187c1c5, Farmer: D.Narasimha rao S/O Malsuraiah, FarmerNumber: 9876080876, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:46, OfflineSinceFrom: 01:09 Hours
+37. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a98187c17f, Farmer: S.Gopal rao S/O Ramaiah, FarmerNumber: 9000097080, Village: Baswapuram, GatewayUpdatedTime: 2025-04-14 04:47:04, OfflineSinceFrom: 37:37 Hours
+38. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041a9b187c135, Farmer: Karnati Srinivas Reddy S/O Not available, FarmerNumber: 9346394356, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:07:54, OfflineSinceFrom: 01:17 Hours
+39. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ab9187c0b3, Farmer: D Srinivas rao S/O Not available, FarmerNumber: 9000438446, Village: Baswapuram, GatewayUpdatedTime: 2025-04-08 13:17:58, OfflineSinceFrom: 73:07 Hours
+40. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041abc187bf3a, Farmer: P.venkat reddy S/O Seetharam reddy, FarmerNumber: 9381979212, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:05:27, OfflineSinceFrom: 01:19 Hours
+41. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041aea187c01c, Farmer: Gudure Rami Reddy S/O Not available, FarmerNumber: 9000335222, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 12:55:23, OfflineSinceFrom: 01:29 Hours
+42. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b22185008a, Farmer: Raghavender Reddy S/O Venkat reddy, FarmerNumber: 6302463213, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:16:57, OfflineSinceFrom: 01:08 Hours
+43. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041b80187c127, Farmer: G.Narsi Reddy S/O Not available, FarmerNumber: 7995372243, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:14:59, OfflineSinceFrom: 01:10 Hours
+44. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041c52187c039, Farmer: A.Upender Reddy S/O Appireddy, FarmerNumber: 6281697353, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:06:09, OfflineSinceFrom: 01:18 Hours
+45. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041cb8187c112, Farmer: Lakkireddy Appireddy S/O Not available, FarmerNumber: 9951152138, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-15 01:09:45, OfflineSinceFrom: 17:15 Hours
+46. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041cde1850188, Farmer: J Madhav Reddy S/O Venkat reddy, FarmerNumber: 6303651325, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:54, OfflineSinceFrom: 01:11 Hours
+47. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d1c18501b3, Farmer: J.Krishna Reddy S/O Laxmi Reddy, FarmerNumber: 9566974899, Village: Baswapuram, GatewayUpdatedTime: 2025-04-15 00:07:27, OfflineSinceFrom: 18:17 Hours
+48. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d44187c159, Farmer: P.Ramu S/O Not available, FarmerNumber: 8790095633, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:25, OfflineSinceFrom: 01:09 Hours
+49. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d561850026, Farmer: CH Krishna rao S/O Ramakrishna , FarmerNumber: 9505157718, Village: Baswapuram, GatewayUpdatedTime: 2025-03-18 17:19:03, OfflineSinceFrom: 73:05 Hours
+50. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d64187c0c8, Farmer: Gurrala Laxma Reddy S/O Not available, FarmerNumber: 9666118549, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:15:08, OfflineSinceFrom: 01:09 Hours
+51. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d71187c032, Farmer: K.Srikanth S/O srinivas Reddy , FarmerNumber: 9550845443, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:22, OfflineSinceFrom: 01:10 Hours
+52. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041d9318500b1, Farmer: V.Sathyanarayana S/O Krishna Reddy, FarmerNumber: 9573041291, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 04:44:17, OfflineSinceFrom: 37:40 Hours
+53. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dbf187beea, Farmer: D Rangarao S/O Not available, FarmerNumber: 9182555376, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:32, OfflineSinceFrom: 01:09 Hours
+54. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dc7182465c, Farmer: S.krishna reddy S/O Pratap Reddy, FarmerNumber: 9849962499, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:08:41, OfflineSinceFrom: 01:16 Hours
+55. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041dfc1850324, Farmer: E.pullaiah S/O Bushaiah, FarmerNumber: 9704093762, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 16:13:47, OfflineSinceFrom: 26:11 Hours
+56. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e06187c069, Farmer: S VenkatReddy S/O Not available, FarmerNumber: 9989253211, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:14:38, OfflineSinceFrom: 01:10 Hours
+57. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e9318501ab, Farmer: S.Rami Reddy S/O Narsi reddy, FarmerNumber: 9951613522, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:11:01, OfflineSinceFrom: 01:13 Hours
+58. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041e94185015c, Farmer: Ailuru Laxma Reddy S/O Not available, FarmerNumber: 9908603607, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-14 04:25:52, OfflineSinceFrom: 37:59 Hours
+59. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041ea4187c19e, Farmer: D.Triveni S/O Suresh, FarmerNumber: 8106009095, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:39, OfflineSinceFrom: 01:09 Hours
+60. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f15185032b, Farmer: A.Vani sree S/O Srinivas Reddy , FarmerNumber: 9505798192, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:06:51, OfflineSinceFrom: 01:18 Hours
+61. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f42187c110, Farmer: CH Srinivasa rao S/O Ramakrishna, FarmerNumber: 9177456691, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:13:56, OfflineSinceFrom: 01:11 Hours
+62. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041f67187c141, Farmer: D Chitti babu S/O Not available, FarmerNumber: 9505547622, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:38:59, OfflineSinceFrom: 01:46 Hours
+63. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fa718502e9, Farmer: A.Ramakrishna Reddy  S/O Nagi reddy, FarmerNumber: 9543268883, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:20:29, OfflineSinceFrom: 01:04 Hours
+64. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fb21850069, Farmer: M.Anvesh S/O Balaram, FarmerNumber: 9542692619, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:56:11, OfflineSinceFrom: 01:28 Hours
+65. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fc8187c0b2, Farmer: J Krishna Reddy S/O Not available, FarmerNumber: 6303555056, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 13:15:49, OfflineSinceFrom: 01:09 Hours
+66. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84041fde187c11a, Farmer: Venkat Reddy S/O Rami reddy, FarmerNumber: 9177557150, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:16:12, OfflineSinceFrom: 01:08 Hours
+67. DeviceType: LSN50 AWD Ball Sensor V4, DeviceID: a84042000181be69, Farmer: Ailuru Bikshma Reddy S/O Not available, FarmerNumber: 9701475722, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:08:30, OfflineSinceFrom: 01:16 Hours
+
+Devices offline immediate action required.

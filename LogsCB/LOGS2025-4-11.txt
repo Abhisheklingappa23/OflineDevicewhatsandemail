@@ -1,0 +1,31 @@
+11-04-2025 17:05:10 Timer Tick TriggerHrs: 13:19 Current Time: 2025-4-11 17:5 Trigger DateTime :2025-4-11 13:19
+11-04-2025 17:05:10 ********F2FFarmerGetData Start********
+11-04-2025 17:05:10 Total Farmer Data Fetched From IVR Master Table:4
+11-04-2025 17:05:10 Start Farmer For Loop Start
+11-04-2025 17:05:10 Dear Ajay IIRR,
+
+                    Your Device Group Details:
+                    DeviceType: Gateway, DeviceID: a84041ffff21ab24, Farmer: R.Somaiah S/O Not available, FarmerNumber: 9912181224, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-11 16:58:15, OfflineSinceFrom: 00:07 Hours; DeviceType: Gateway, DeviceID: a84041ffff225b14, Farmer: R Saidulu S/O Mallayya, FarmerNumber: 9949225536, Village: Neelaigudem, GatewayUpdatedTime: 2025-04-11 17:04:48, OfflineSinceFrom: 00:01 Hours
+
+                    Gateway offline immediate action required.
+11-04-2025 17:05:10 Dear Sai kiran IIRR,
+
+                    Your Device Group Details:
+                    DeviceType: Gateway, DeviceID: a84041ffff27ccb0, Farmer: Lalu S/O Not available, FarmerNumber: 6301638983, Village: Dupahad, GatewayUpdatedTime: 2025-04-11 17:00:30, OfflineSinceFrom: 00:05 Hours; DeviceType: Gateway, DeviceID: a84041ffff28784c, Farmer: Kiran S/O Not Available, FarmerNumber: 7893989055, Village: Dupahad, GatewayUpdatedTime: 2025-04-09 13:58:43, OfflineSinceFrom: 51:07 Hours
+
+                    Gateway offline immediate action required.
+11-04-2025 17:05:10 Dear Sreeman IIRR,
+
+                    Your Device Group Details:
+                    DeviceType: Gateway, DeviceID: a84041ffff1f9cac, Farmer: Bhukya Laxmi S/O Ramulu, FarmerNumber: 9908795909, Village: Seethampeta banjara, GatewayUpdatedTime: 2025-04-11 17:05:03, OfflineSinceFrom: 00:00 Hours
+
+                    Gateway offline immediate action required.
+11-04-2025 17:05:10 Dear Srikanth IIRR,
+
+                    Your Device Group Details:
+                    DeviceType: Gateway, DeviceID: a84041ffff1f7c2c, Farmer: Venkat Reddy S/O Rami reddy, FarmerNumber: 9177557150, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 17:01:21, OfflineSinceFrom: 00:04 Hours; DeviceType: Gateway, DeviceID: a84041ffff1f94a0, Farmer: CH Venkatesh S/O Not available, FarmerNumber: 9949940249, Village: Baswapuram, GatewayUpdatedTime: 2025-04-11 12:59:02, OfflineSinceFrom: 04:06 Hours; DeviceType: Gateway, DeviceID: a84041ffff1f9794, Farmer: T.Daveed S/O Chandraiah, FarmerNumber: 9848163862, Village: Kurnavalli, GatewayUpdatedTime: 2025-04-11 13:50:17, OfflineSinceFrom: 03:15 Hours
+
+                    Gateway offline immediate action required.
+11-04-2025 17:05:10 End farmer Loop
+11-04-2025 17:05:10 ********F2FFarmerGetData END********
+11-04-2025 17:05:10 ********Timer Time Matched Ending********
