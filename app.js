@@ -36,7 +36,7 @@ setInterval(() => {
 
     let l_Date_ObJ = new Date();   
     var l_Current_Date_Time;
-    var lTriggerRequiredHrs = "15:22";
+    var lTriggerRequiredHrs = "9:0";
     
 
     l_Current_Date_Time = l_Date_ObJ.getFullYear() + "-"+ (l_Date_ObJ.getMonth() + 1) + "-" + l_Date_ObJ.getDate() + " " + l_Date_ObJ.getHours() + ":" + l_Date_ObJ.getMinutes()
@@ -62,253 +62,57 @@ setInterval(() => {
         }
     });
 
-    async function parseDeviceRecords_(deviceGroupString) {
-        // Split the entire string on semicolon and remove empty entries
-        const records = deviceGroupString.split(";")
-          .map(item => item.trim())
-          .filter(item => item !== "");
-      
-        // Regular expression to capture each field.
-        // Note: Adjust spacing if necessary. This regex expects a fixed order.
-
-        //const regex = /^(?<sno>\d+)\.\s*DeviceType:\s*(?<DeviceType>[^,]+),\s*DeviceID:\s*(?<DeviceID>[^,]+),\s*Farmer:\s*(?<Farmer>[^,]+),\s*FarmerNumber:\s*(?<FarmerNumber>[^,]+),\s*Village:\s*(?<Village>[^,]+),\s*GatewayUpdatedTime:\s*(?<GatewayUpdatedTime>[^,]+),\s*OfflineSinceFrom:\s*(?<OfflineSinceFrom>.+)$/i;
-        const regex = /^(?<sno>\d+)\.\s*DeviceType:\s*(?<DeviceType>[^,]+),\s*Client:\s*(?<Client>[^,]+),\s*DeviceID:\s*(?<DeviceID>[^,]+),\s*Farmer:\s*(?<Farmer>[^,]+),\s*FarmerNumber:\s*(?<FarmerNumber>[^,]+),\s*Village:\s*(?<Village>[^,]+),\s*GatewayUpdatedTime:\s*(?<GatewayUpdatedTime>[^,]+),\s*OfflineSinceFrom:\s*(?<OfflineSinceFrom>.+)$/i;
-        
-      
-        const parsedRecords = [];
-      
-        for (let rec of records) {
-          const match = rec.match(regex);
-          if (match && match.groups) {
-            parsedRecords.push({
-              sno: match.groups.sno.trim(),
-              DeviceType: match.groups.DeviceType.trim(),
-              Client:match.groups.Client.trim(),
-              DeviceID: match.groups.DeviceID.trim(),
-              Farmer: match.groups.Farmer.trim(),
-              FarmerNumber: match.groups.FarmerNumber.trim(),
-              Village: match.groups.Village.trim(),
-              GatewayUpdatedTime: match.groups.GatewayUpdatedTime.trim(),
-              OfflineSinceFrom: match.groups.OfflineSinceFrom.trim()
-            });
-          } else {
-            // Fallback: If regex fails, push a record with the raw string.
-            parsedRecords.push({ raw: rec });
-          }
-        }
-        return parsedRecords;
-    }
-
-    async function parseDeviceRecords__(deviceGroupString) {
-        // Split on semicolons, trim, and drop empty entries
-        const records = deviceGroupString.split(';')
-          .map(r => r.trim())
-          .filter(r => r.length > 0);
-      
-        // Updated regex: now allows an optional "Client: <value>," after DeviceType
-        const regex = new RegExp([
-          '^(?<sno>\\d+)\\.',                                // 1. S.No
-          '\\s*DeviceType:\\s*(?<DeviceType>[^,]+),',        // 2. DeviceType
-          '(?:\\s*Client:\\s*(?<Client>[^,]+),)?',           // 3. OPTIONAL Client
-          '\\s*DeviceID:\\s*(?<DeviceID>[^,]+),',            // 4. DeviceID
-          '\\s*Farmer:\\s*(?<Farmer>[^,]+),',                // 5. Farmer
-          '\\s*FarmerNumber:\\s*(?<FarmerNumber>[^,]+),',    // 6. FarmerNumber
-          '\\s*Village:\\s*(?<Village>[^,]+),',              // 7. Village
-          '\\s*GatewayUpdatedTime:\\s*(?<GatewayUpdatedTime>[^,]+),', // 8.
-          '\\s*OfflineSinceFrom:\\s*(?<OfflineSinceFrom>.+)$' // 9.
-        ].join(''), 'i');
-      
-        const parsed = [];
-      
-        for (let rec of records) {
-          const m = rec.match(regex);
-          if (m && m.groups) {
-            parsed.push({
-              sno:            m.groups.sno.trim(),
-              DeviceType:     m.groups.DeviceType.trim(),
-              Client:         (m.groups.Client || '').trim(),
-              DeviceID:       m.groups.DeviceID.trim(),
-              Farmer:         m.groups.Farmer.trim(),
-              FarmerNumber:   m.groups.FarmerNumber.trim(),
-              Village:        m.groups.Village.trim(),
-              GatewayUpdatedTime: m.groups.GatewayUpdatedTime.trim(),
-              OfflineSinceFrom:   m.groups.OfflineSinceFrom.trim()
-            });
-          } else {
-            parsed.push({ raw: rec });
-          }
-        }
-      
-        return parsed;
-      }
-
-      async function parseDeviceRecords(deviceGroupString) {
-        // 1) Split on semicolons, trim and drop any empty segments
-        const segments = deviceGroupString
-          .split(';')
-          .map(s => s.trim())
-          .filter(s => s.length > 0);
-      
-        const parsed = [];
-      
-        for (let seg of segments) {
-          // 2) Extract the serial number by removing "<number>. " at the front
-          const snoMatch = seg.match(/^(\d+)\.\s*/);
-          const sno = snoMatch ? snoMatch[1] : '';
-          // Remove that prefix from the text
-          let body = snoMatch ? seg.slice(snoMatch[0].length) : seg;
-      
-          // 3) Now split into key:value pairs.
-          //    We look for comma + (lookahead for word+colon) so we preserve values that have commas
-          const pairs = body.split(/,\s*(?=[A-Za-z ]+:\s*)/);
-      
-          // 4) Build an object of the form { DeviceType: "...", Client: "...", ... }
-          const obj = { sno };
-          for (let pair of pairs) {
-            let [key, val] = pair.split(/:\s*(.+)/); 
-            if (!val) continue;     // skip if no colon
-            key = key.trim();
-            val = val.trim();
-            obj[key] = val;
-          }
-      
-          // 5) Push either the parsed object (if it has at least DeviceID) or raw fallback
-          if (obj.DeviceID) {
-            parsed.push({
-              sno:                obj.sno,
-              Client:             obj.Client || '',
-              DeviceType:         obj.DeviceType || '',
-              DeviceID:           obj.DeviceID || '',
-              Farmer:             obj.Farmer || '',
-              FarmerNumber:       obj.FarmerNumber || '',
-              Village:            obj.Village || '',
-              GatewayUpdatedTime: obj.GatewayUpdatedTime || '',
-              OfflineSinceFrom:   obj.OfflineSinceFrom || ''
-            });
-          } else {
-            parsed.push({ raw: seg });
-          }
-        }
-      
-        return parsed;
-      }
-      
-      
+    async function parseDeviceRecords(deviceGroupString) {
+    // 1) Split on semicolons, trim and drop any empty segments
+    const segments = deviceGroupString
+        .split(';')
+        .map(s => s.trim())
+        .filter(s => s.length > 0);
     
-    async function buildHtmlEmailFromDeviceGroup_(fieldOfficerName, deviceGroupString) {
-        // Parse the device records asynchronously
-        const parsedRecords = await parseDeviceRecords(deviceGroupString);
-      
-        // Build table header with centered text
-        const tableHeader = `
-          <tr style="background: #f2f2f2;">
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">S.No</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">Client</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">DeviceType</th>            
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">DeviceID</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">Farmer</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">FarmerNumber</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">Village</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">DeviceLastcommunicated</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">OfflineSinceFrom</th>
-          </tr>`;
-      
-        // Build table rows by mapping over parsedRecords
-        const tableRows = parsedRecords.map(record => {
-          // If record parsing failed, show the raw string in a full-row cell
-          if (record.raw) {
-            return `<tr><td colspan="8" style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.raw}</td></tr>`;
-          }
-      
-          return `
-            <tr>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.sno}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.Client}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.DeviceType}</td>              
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.DeviceID}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.Farmer}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.FarmerNumber}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.Village}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.GatewayUpdatedTime}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.OfflineSinceFrom}</td>
-            </tr>`;
-        }).join('');
-      
-        // Wrap header and rows in a table element with overall centered text
-        const tableHtml = `
-          <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; font-size: 14px; text-align: center;">
-            <thead>${tableHeader}</thead>
-            <tbody>${tableRows}</tbody>
-          </table>`;
-      
-        // Return the complete HTML email content
-        return dedent(`
-          <p>Dear ${fieldOfficerName},</p>
-          <p>Your Offline Device Details are as follows:</p>
-          ${tableHtml}
-          <p>Devices offline immediate action required.</p>
-          <p>Regards,<br/>Team CultYvate</p>
-          <p>This is a Automated Email, Do not reply.</p>
-          <p><a href="https://www.cultyvate.com/" target="_blank">https://www.cultyvate.com/</a></p>
-        `);
+    const parsed = [];
+    
+    for (let seg of segments) {
+        // 2) Extract the serial number by removing "<number>. " at the front
+        const snoMatch = seg.match(/^(\d+)\.\s*/);
+        const sno = snoMatch ? snoMatch[1] : '';
+        // Remove that prefix from the text
+        let body = snoMatch ? seg.slice(snoMatch[0].length) : seg;
+    
+        // 3) Now split into key:value pairs.
+        //    We look for comma + (lookahead for word+colon) so we preserve values that have commas
+        const pairs = body.split(/,\s*(?=[A-Za-z ]+:\s*)/);
+    
+        // 4) Build an object of the form { DeviceType: "...", Client: "...", ... }
+        const obj = { sno };
+        for (let pair of pairs) {
+        let [key, val] = pair.split(/:\s*(.+)/); 
+        if (!val) continue;     // skip if no colon
+        key = key.trim();
+        val = val.trim();
+        obj[key] = val;
+        }
+    
+        // 5) Push either the parsed object (if it has at least DeviceID) or raw fallback
+        if (obj.DeviceID) {
+        parsed.push({
+            sno:                obj.sno,
+            Client:             obj.Client || '',
+            DeviceType:         obj.DeviceType || '',
+            DeviceID:           obj.DeviceID || '',
+            Farmer:             obj.Farmer || '',
+            FarmerNumber:       obj.FarmerNumber || '',
+            Village:            obj.Village || '',
+            GatewayUpdatedTime: obj.GatewayUpdatedTime || '',
+            OfflineSinceFrom:   obj.OfflineSinceFrom || ''
+        });
+        } else {
+        parsed.push({ raw: seg });
+        }
     }
-
-    async function buildHtmlEmailFromDeviceGroup__(fieldOfficerName, deviceGroupString) {
-        const parsedRecords = await parseDeviceRecords(deviceGroupString);
-      
-        const tableHeader = `
-          <tr style="background: #f2f2f2;">
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">S.No</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">Client</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">DeviceType</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">DeviceID</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">Farmer</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">FarmerNumber</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">Village</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">DeviceLastcommunicated</th>
-            <th style="border: 1px solid #ccc; padding: 5px; text-align: center;">OfflineSinceFrom</th>
-          </tr>`;
-      
-        const tableRows = parsedRecords.map(record => {
-          if (record.raw) {
-            // Change colspan from 8 to 9 here
-            return `<tr>
-                      <td colspan="9" style="border: 1px solid #ccc; padding: 5px; text-align: center;">
-                        ${record.raw}
-                      </td>
-                    </tr>`;
-          }
-      
-          return `
-            <tr>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.sno}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.Client}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.DeviceType}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.DeviceID}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.Farmer}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.FarmerNumber}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.Village}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.GatewayUpdatedTime}</td>
-              <td style="border: 1px solid #ccc; padding: 5px; text-align: center;">${record.OfflineSinceFrom}</td>
-            </tr>`;
-        }).join('');
-      
-        const tableHtml = `
-          <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; font-size: 14px; text-align: center;">
-            <thead>${tableHeader}</thead>
-            <tbody>${tableRows}</tbody>
-          </table>`;
-      
-        return dedent(`
-          <p>Dear ${fieldOfficerName},</p>
-          <p>Your Offline Device Details are as follows:</p>
-          ${tableHtml}
-          <p>Devices offline immediate action required.</p>
-          <p>Regards,<br/>Team CultYvate</p>
-          <p>This is an automated email; please do not reply.</p>
-          <p><a href="https://www.cultyvate.com/" target="_blank">https://www.cultyvate.com/</a></p>
-        `);
+    
+    return parsed;
     }
+         
     async function buildHtmlEmailFromDeviceGroup(fieldOfficerName, deviceGroupString) {
         const parsedRecords = await parseDeviceRecords(deviceGroupString);
       
